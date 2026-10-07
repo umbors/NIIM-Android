@@ -1,0 +1,14 @@
+{
+	"appId": "ru.mmote.niimblues",
+	"appName": "Niim Pocket",
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	},
+	"android": {},
+	"ios": {
+		"scheme": "NiimBlues"
+	}
+}

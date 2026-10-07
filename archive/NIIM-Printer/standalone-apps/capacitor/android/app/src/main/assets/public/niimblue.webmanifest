@@ -1,0 +1,19 @@
+{
+  "name": "Niim Pocket 标签打印",
+  "short_name": "Niim Pocket",
+  "description": "清晰易用的手机标签设计与 NIIMBOT 打印工具，强化文字和二维码编辑。",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any"
+    },
+    {
+      "src": "favicon-512.png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f6f7fb",
+  "background_color": "#f6f7fb"
+}

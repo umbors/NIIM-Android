@@ -1,0 +1,3506 @@
+[
+  {
+    "path": ".dockerignore",
+    "bytes": 136,
+    "sha256": "aec09c489c68c4938623b7efd04dc4241376c20108eae5dfd8e3798496cea3f0",
+    "git_blob": "ecf705ebb02a636a148342265b3a96eb3a1cff4f"
+  },
+  {
+    "path": ".env",
+    "bytes": 197,
+    "sha256": "f18b9410e646d448e373413d6d45c296eda53faf4ff6cc66ddfa997e4bd98411",
+    "git_blob": "c395dd8f61a2fe100d82dc27a0c10422e31f828f"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 50,
+    "sha256": "f2e7d2375b14062a641a62a333d7ab57c81641c4e0d162a3059969a7b885ba68",
+    "git_blob": "d9d9b228c7afd62bc4043a12f3da475f437a42d9"
+  },
+  {
+    "path": ".prettierrc",
+    "bytes": 202,
+    "sha256": "f667e6bdcaee41439fa0c856fefb2585019bca337f1906d85f5d740ca703fe0f",
+    "git_blob": "fe5607dffa87be71ad6f7556533456bfe66d7c05"
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "bytes": 777,
+    "sha256": "de445cb03a437b1b3b9c76085b164bc6e38c8b3e3a7f9981400a2e8e1b51d79b",
+    "git_blob": "cc32ec081a102a16558431fa88c62dd5210cfd78"
+  },
+  {
+    "path": "Dockerfile",
+    "bytes": 263,
+    "sha256": "810cf36e9f7ff9328cb0eec80c7bb3040ee430ce7a80795a73f4f31eae2f4af0",
+    "git_blob": "9c50a51daa68fbdf6553bcd73651a70c722740c3"
+  },
+  {
+    "path": "eslint.config.js",
+    "bytes": 1156,
+    "sha256": "c2cf480cd85d895b6db13e4954b2a442ae8f61a57b222d858bea413671c48453",
+    "git_blob": "5783c86e060c25c7cd86c0d0a009e52b3aa00b6f"
+  },
+  {
+    "path": "gen-mdi-list.mjs",
+    "bytes": 1265,
+    "sha256": "cb78d772426f61cf79b636c2caa4c3aba36a18d6dd54b906f31a5cf2516349b3",
+    "git_blob": "00d07ab8c1e51504fd1da05ecd6672f1c68c2704"
+  },
+  {
+    "path": "index.html",
+    "bytes": 1646,
+    "sha256": "4b39e9b5c31aebb53926586371e126ea32a3f4ba917e8a2abd72960721a38023",
+    "git_blob": "a398bda7588783605ce89621d3be8ef184c123cb"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1087,
+    "sha256": "d8f9153738369c41fb9f05d48387ef5d008cb0d40dc65066d98c035c52c4cf89",
+    "git_blob": "5563b62df6757a7bc12834dd334443bf20d614f9"
+  },
+  {
+    "path": "MOBILE_README.md",
+    "bytes": 3686,
+    "sha256": "17a07d01bf8f61da72650641b905791c26877a0e51cbdf3b061b19b70aedb590",
+    "git_blob": "57b5ec3e587df34f6f25664bddd33bb6b9e460b5"
+  },
+  {
+    "path": "Niim-Pocket-0.1.2-debug.apk",
+    "bytes": 6135949,
+    "sha256": "8a96bc85e496540b8acfb784a458de5d77689ad3ce58990de54dd6dd6fede29a",
+    "git_blob": "1677b9eac7c0acfb2705ae3aa66f83a0e4b9883a"
+  },
+  {
+    "path": "Niim-Pocket-Android-debug.apk",
+    "bytes": 6299616,
+    "sha256": "d28a8c0227f2a5f62ae6462a1397a10c20c79d9b29176ba347421486283a3c71",
+    "git_blob": "f82f4d5762095478f6001fd8634e90afa36f51a1"
+  },
+  {
+    "path": "package-lock.json",
+    "bytes": 140418,
+    "sha256": "c44ff9057e54965b54562cb3598dfbfa384bf23f7c9f3633d046db624f509a54",
+    "git_blob": "17fda455181cd513c221c7190203a6ea36c00efc"
+  },
+  {
+    "path": "package.json",
+    "bytes": 1806,
+    "sha256": "6325d0e5d27421cf215c7b0bab82ae67b19264ab71bc57ed48797e68d048394d",
+    "git_blob": "8630ab2688c43eed65012604e2771aa583092c45"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4997,
+    "sha256": "8269044cff6e1da53233549b160659b88337b63c44d9d1e434632358db676176",
+    "git_blob": "8d80fe4bae0e302103023a6078d11663bbe49d5f"
+  },
+  {
+    "path": "svelte.config.js",
+    "bytes": 260,
+    "sha256": "5e9a41e1813fa5a118f797a3e91884dcc4b3c4a8753cda379ace0fe9d265b772",
+    "git_blob": "a75d468eb64deadcef14ff7ebcface16e8860e62"
+  },
+  {
+    "path": "tsconfig.json",
+    "bytes": 746,
+    "sha256": "17ed138496913ba6a998be0b86fe15509506e3e0724d86c75425e4ab3ab6d953",
+    "git_blob": "e5fb43d174a81ed9cf9fa4254094c8c4fd65bb01"
+  },
+  {
+    "path": "vite.config.ts",
+    "bytes": 1909,
+    "sha256": "c4d5c0b53b38f818723dc889f48f0f41159bf87106a65abc4295c0cfa267eca9",
+    "git_blob": "3379f7d9bbd7c16bb9c984c1c268fd8bb7ee77e7"
+  },
+  {
+    "path": ".gitea/workflows/build-android-app.yml",
+    "bytes": 3486,
+    "sha256": "bb7ac1ef7a0def68fe00d0e22bf680a01fb96f921e23ebb2a77b9cba365b166d",
+    "git_blob": "5236e5ead41e207a087298bdf68b4f542643c1cc"
+  },
+  {
+    "path": ".gitea/workflows/build-tauri-app.yml",
+    "bytes": 2518,
+    "sha256": "f208df696b8abb294788f3f63eb4491abc8d5d0ac5c5bc2103cedc834fe82dfa",
+    "git_blob": "e0120ca5cbd4123e84d1caacac852b15c12bd6fd"
+  },
+  {
+    "path": ".gitea/workflows/deploy-to-server.yml",
+    "bytes": 4229,
+    "sha256": "5d2d931b7e3a6478b9b74c7b692066bf1a418d961ac8bf830908582f3ffd8b04",
+    "git_blob": "14fec15906c1e76df2533ee79aed5026a0b0d773"
+  },
+  {
+    "path": ".gitea/workflows/publish-docker-image.yml",
+    "bytes": 878,
+    "sha256": "6f46e8dcd7455a2fb4322fc3b226c6dba7601ba205aa0859d4199d344557be2c",
+    "git_blob": "785772e62cbd8419902df5616956244ba4c47072"
+  },
+  {
+    "path": ".github/ISSUE_TEMPLATE/bug-report.md",
+    "bytes": 643,
+    "sha256": "e39e98ef5ebeb95858edb815e2c1d8524a5f88cc852beef4ad7e818f6e2d2d8b",
+    "git_blob": "2bfc968dbe78a634e4bd8fd30b8f33a9de2bbf29"
+  },
+  {
+    "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+    "bytes": 127,
+    "sha256": "74784ab34d016356843a2cfafb0479f6bbf9fec04ab22d875fe0ea9ad2eeeffa",
+    "git_blob": "017320a4f5ac0f4bad53537610c341e7a22bdce0"
+  },
+  {
+    "path": "about/batch.png",
+    "bytes": 76589,
+    "sha256": "62a5bc6e41fc1c2fc74d207f9d9c837f035d13c28add87e6023c92465e63329f",
+    "git_blob": "cfe5a9a584db85d180baf112855625dfec4d44d0"
+  },
+  {
+    "path": "about/dither.png",
+    "bytes": 56644,
+    "sha256": "0ee25548bab0323758e8d9d63548745878f2464f96805e992d576fd125af9ab6",
+    "git_blob": "720e6e7c0244358c03740d372382af05d2b57f92"
+  },
+  {
+    "path": "about/labels.png",
+    "bytes": 55109,
+    "sha256": "930752017485d57ea54711f86464c56082a9825cb14b1d53081c23ace04889cb",
+    "git_blob": "008473a42d8f168f916348ebf77dc8409a20702b"
+  },
+  {
+    "path": "about/logo.svg",
+    "bytes": 3319,
+    "sha256": "02782f75aac7f6a05969678d9a0d2d80c608cb2bad60602a7d7e95613347620d",
+    "git_blob": "af2c0a8915b2445bae0c7cbaf244b82b69860c71"
+  },
+  {
+    "path": "about/print_preview.png",
+    "bytes": 34227,
+    "sha256": "2e3ec167186fd57723b03d262bf2164ff13f6fdc13a6bbfe7af1ae72060a4276",
+    "git_blob": "41c62d7826b3840e7f014b9c851029878f9ce9c4"
+  },
+  {
+    "path": "about/printed_b1.jpg",
+    "bytes": 113399,
+    "sha256": "4a6e7ecb9804e89e5d43b94c96d896eec84a3bb75ae0bb1d8f77f1fb12e7a4b7",
+    "git_blob": "24dd42b2f24efc9598f3b923f12c2afa997f66e2"
+  },
+  {
+    "path": "about/printed_d110.jpg",
+    "bytes": 167115,
+    "sha256": "33458a5f6aaed9d3e20946123453dc95dc831e5810319ad15df202405d994405",
+    "git_blob": "f1bf8342e9df1f6a212fe2e8d102a41c39cb82d4"
+  },
+  {
+    "path": "about/save_load.png",
+    "bytes": 47799,
+    "sha256": "763f79ba4941910f7d409f8d27d1c79afdb99630628dad00933111fd3bd173bc",
+    "git_blob": "ad1cc7f90a6ca6b638c78f2fbc5eb99378381525"
+  },
+  {
+    "path": "about/templating.png",
+    "bytes": 20866,
+    "sha256": "08a8b2aeb38b1d1807aed03bcd24c23b9713d9a3b22a990ee32392b52c1aa8b5",
+    "git_blob": "37f2de04af7bca66e9e2fd91306466aeac487713"
+  },
+  {
+    "path": "about/ui.png",
+    "bytes": 89528,
+    "sha256": "c989ca13d9daad0115f25f604cdd6981ac78ffe075cf65264b72a64034f2aae5",
+    "git_blob": "f091e0374db156ff887b3b8182559519e03cd29c"
+  },
+  {
+    "path": "archive/NIIM-Printer/.dockerignore",
+    "bytes": 136,
+    "sha256": "aec09c489c68c4938623b7efd04dc4241376c20108eae5dfd8e3798496cea3f0",
+    "git_blob": "ecf705ebb02a636a148342265b3a96eb3a1cff4f"
+  },
+  {
+    "path": "archive/NIIM-Printer/.env",
+    "bytes": 197,
+    "sha256": "f18b9410e646d448e373413d6d45c296eda53faf4ff6cc66ddfa997e4bd98411",
+    "git_blob": "c395dd8f61a2fe100d82dc27a0c10422e31f828f"
+  },
+  {
+    "path": "archive/NIIM-Printer/.gitignore",
+    "bytes": 50,
+    "sha256": "f2e7d2375b14062a641a62a333d7ab57c81641c4e0d162a3059969a7b885ba68",
+    "git_blob": "d9d9b228c7afd62bc4043a12f3da475f437a42d9"
+  },
+  {
+    "path": "archive/NIIM-Printer/.prettierrc",
+    "bytes": 202,
+    "sha256": "f667e6bdcaee41439fa0c856fefb2585019bca337f1906d85f5d740ca703fe0f",
+    "git_blob": "fe5607dffa87be71ad6f7556533456bfe66d7c05"
+  },
+  {
+    "path": "archive/NIIM-Printer/CONTRIBUTING.md",
+    "bytes": 777,
+    "sha256": "de445cb03a437b1b3b9c76085b164bc6e38c8b3e3a7f9981400a2e8e1b51d79b",
+    "git_blob": "cc32ec081a102a16558431fa88c62dd5210cfd78"
+  },
+  {
+    "path": "archive/NIIM-Printer/Dockerfile",
+    "bytes": 263,
+    "sha256": "810cf36e9f7ff9328cb0eec80c7bb3040ee430ce7a80795a73f4f31eae2f4af0",
+    "git_blob": "9c50a51daa68fbdf6553bcd73651a70c722740c3"
+  },
+  {
+    "path": "archive/NIIM-Printer/eslint.config.js",
+    "bytes": 1042,
+    "sha256": "3b39398f001ced87775c828190c61f20cfc630e6daa026227059e0814a116a80",
+    "git_blob": "a369934354c6e680132d79dfe76f9fe1d94c69dd"
+  },
+  {
+    "path": "archive/NIIM-Printer/gen-mdi-list.mjs",
+    "bytes": 1265,
+    "sha256": "cb78d772426f61cf79b636c2caa4c3aba36a18d6dd54b906f31a5cf2516349b3",
+    "git_blob": "00d07ab8c1e51504fd1da05ecd6672f1c68c2704"
+  },
+  {
+    "path": "archive/NIIM-Printer/index.html",
+    "bytes": 1646,
+    "sha256": "4b39e9b5c31aebb53926586371e126ea32a3f4ba917e8a2abd72960721a38023",
+    "git_blob": "a398bda7588783605ce89621d3be8ef184c123cb"
+  },
+  {
+    "path": "archive/NIIM-Printer/LICENSE",
+    "bytes": 1087,
+    "sha256": "d8f9153738369c41fb9f05d48387ef5d008cb0d40dc65066d98c035c52c4cf89",
+    "git_blob": "5563b62df6757a7bc12834dd334443bf20d614f9"
+  },
+  {
+    "path": "archive/NIIM-Printer/MOBILE_README.md",
+    "bytes": 1988,
+    "sha256": "5ffbaf73d1f33c21a7e6bc121f969d452be73783d20e4766a225bb1e879948e7",
+    "git_blob": "f401c0b0aea35c232d679180277d38d33731e8de"
+  },
+  {
+    "path": "archive/NIIM-Printer/package-lock.json",
+    "bytes": 140367,
+    "sha256": "70b715e60b5ba4899f69313b3a5b9d9609c6fa1edfa3c8cb5b2c3b4567cb295b",
+    "git_blob": "e44921863f70566585329bc03c8dd23fc2abd539"
+  },
+  {
+    "path": "archive/NIIM-Printer/package.json",
+    "bytes": 1759,
+    "sha256": "5638ca2362508f65ce3e772e917f654dfbd0d974150616ff2e42e559ad938838",
+    "git_blob": "d7c76909ed3e85d33feb5814a330bf3c7a3c396e"
+  },
+  {
+    "path": "archive/NIIM-Printer/README.md",
+    "bytes": 4997,
+    "sha256": "8269044cff6e1da53233549b160659b88337b63c44d9d1e434632358db676176",
+    "git_blob": "8d80fe4bae0e302103023a6078d11663bbe49d5f"
+  },
+  {
+    "path": "archive/NIIM-Printer/svelte.config.js",
+    "bytes": 260,
+    "sha256": "5e9a41e1813fa5a118f797a3e91884dcc4b3c4a8753cda379ace0fe9d265b772",
+    "git_blob": "a75d468eb64deadcef14ff7ebcface16e8860e62"
+  },
+  {
+    "path": "archive/NIIM-Printer/tsconfig.json",
+    "bytes": 746,
+    "sha256": "17ed138496913ba6a998be0b86fe15509506e3e0724d86c75425e4ab3ab6d953",
+    "git_blob": "e5fb43d174a81ed9cf9fa4254094c8c4fd65bb01"
+  },
+  {
+    "path": "archive/NIIM-Printer/vite.config.ts",
+    "bytes": 1909,
+    "sha256": "c4d5c0b53b38f818723dc889f48f0f41159bf87106a65abc4295c0cfa267eca9",
+    "git_blob": "3379f7d9bbd7c16bb9c984c1c268fd8bb7ee77e7"
+  },
+  {
+    "path": "archive/NIIM-Printer/.gitea/workflows/build-android-app.yml",
+    "bytes": 3486,
+    "sha256": "bb7ac1ef7a0def68fe00d0e22bf680a01fb96f921e23ebb2a77b9cba365b166d",
+    "git_blob": "5236e5ead41e207a087298bdf68b4f542643c1cc"
+  },
+  {
+    "path": "archive/NIIM-Printer/.gitea/workflows/build-tauri-app.yml",
+    "bytes": 2518,
+    "sha256": "f208df696b8abb294788f3f63eb4491abc8d5d0ac5c5bc2103cedc834fe82dfa",
+    "git_blob": "e0120ca5cbd4123e84d1caacac852b15c12bd6fd"
+  },
+  {
+    "path": "archive/NIIM-Printer/.gitea/workflows/deploy-to-server.yml",
+    "bytes": 4229,
+    "sha256": "5d2d931b7e3a6478b9b74c7b692066bf1a418d961ac8bf830908582f3ffd8b04",
+    "git_blob": "14fec15906c1e76df2533ee79aed5026a0b0d773"
+  },
+  {
+    "path": "archive/NIIM-Printer/.gitea/workflows/publish-docker-image.yml",
+    "bytes": 878,
+    "sha256": "6f46e8dcd7455a2fb4322fc3b226c6dba7601ba205aa0859d4199d344557be2c",
+    "git_blob": "785772e62cbd8419902df5616956244ba4c47072"
+  },
+  {
+    "path": "archive/NIIM-Printer/.github/ISSUE_TEMPLATE/bug-report.md",
+    "bytes": 643,
+    "sha256": "e39e98ef5ebeb95858edb815e2c1d8524a5f88cc852beef4ad7e818f6e2d2d8b",
+    "git_blob": "2bfc968dbe78a634e4bd8fd30b8f33a9de2bbf29"
+  },
+  {
+    "path": "archive/NIIM-Printer/.github/ISSUE_TEMPLATE/feature_request.md",
+    "bytes": 127,
+    "sha256": "74784ab34d016356843a2cfafb0479f6bbf9fec04ab22d875fe0ea9ad2eeeffa",
+    "git_blob": "017320a4f5ac0f4bad53537610c341e7a22bdce0"
+  },
+  {
+    "path": "archive/NIIM-Printer/about/batch.png",
+    "bytes": 76589,
+    "sha256": "62a5bc6e41fc1c2fc74d207f9d9c837f035d13c28add87e6023c92465e63329f",
+    "git_blob": "cfe5a9a584db85d180baf112855625dfec4d44d0"
+  },
+  {
+    "path": "archive/NIIM-Printer/about/dither.png",
+    "bytes": 56644,
+    "sha256": "0ee25548bab0323758e8d9d63548745878f2464f96805e992d576fd125af9ab6",
+    "git_blob": "720e6e7c0244358c03740d372382af05d2b57f92"
+  },
+  {
+    "path": "archive/NIIM-Printer/about/labels.png",
+    "bytes": 55109,
+    "sha256": "930752017485d57ea54711f86464c56082a9825cb14b1d53081c23ace04889cb",
+    "git_blob": "008473a42d8f168f916348ebf77dc8409a20702b"
+  },
+  {
+    "path": "archive/NIIM-Printer/about/logo.svg",
+    "bytes": 3319,
+    "sha256": "02782f75aac7f6a05969678d9a0d2d80c608cb2bad60602a7d7e95613347620d",
+    "git_blob": "af2c0a8915b2445bae0c7cbaf244b82b69860c71"
+  },
+  {
+    "path": "archive/NIIM-Printer/about/print_preview.png",
+    "bytes": 34227,
+    "sha256": "2e3ec167186fd57723b03d262bf2164ff13f6fdc13a6bbfe7af1ae72060a4276",
+    "git_blob": "41c62d7826b3840e7f014b9c851029878f9ce9c4"
+  },
+  {
+    "path": "archive/NIIM-Printer/about/printed_b1.jpg",
+    "bytes": 113399,
+    "sha256": "4a6e7ecb9804e89e5d43b94c96d896eec84a3bb75ae0bb1d8f77f1fb12e7a4b7",
+    "git_blob": "24dd42b2f24efc9598f3b923f12c2afa997f66e2"
+  },
+  {
+    "path": "archive/NIIM-Printer/about/printed_d110.jpg",
+    "bytes": 167115,
+    "sha256": "33458a5f6aaed9d3e20946123453dc95dc831e5810319ad15df202405d994405",
+    "git_blob": "f1bf8342e9df1f6a212fe2e8d102a41c39cb82d4"
+  },
+  {
+    "path": "archive/NIIM-Printer/about/save_load.png",
+    "bytes": 47799,
+    "sha256": "763f79ba4941910f7d409f8d27d1c79afdb99630628dad00933111fd3bd173bc",
+    "git_blob": "ad1cc7f90a6ca6b638c78f2fbc5eb99378381525"
+  },
+  {
+    "path": "archive/NIIM-Printer/about/templating.png",
+    "bytes": 20866,
+    "sha256": "08a8b2aeb38b1d1807aed03bcd24c23b9713d9a3b22a990ee32392b52c1aa8b5",
+    "git_blob": "37f2de04af7bca66e9e2fd91306466aeac487713"
+  },
+  {
+    "path": "archive/NIIM-Printer/about/ui.png",
+    "bytes": 89528,
+    "sha256": "c989ca13d9daad0115f25f604cdd6981ac78ffe075cf65264b72a64034f2aae5",
+    "git_blob": "f091e0374db156ff887b3b8182559519e03cd29c"
+  },
+  {
+    "path": "archive/NIIM-Printer/public/favicon-512.png",
+    "bytes": 9868,
+    "sha256": "4a5ff01accee898a7a6d18f8fb160e009f659cda7f97b9193e90660ccb758630",
+    "git_blob": "0faee29af3cbf19684f69c8003034da5bca1ab99"
+  },
+  {
+    "path": "archive/NIIM-Printer/public/favicon.ico",
+    "bytes": 16958,
+    "sha256": "abb1f4ca88f0aec47331fd0edad899a5b99c88d211219b0d674098bbdd201563",
+    "git_blob": "8b09f9cb0b86ffb0d10b3d74fe223440e5a2ea96"
+  },
+  {
+    "path": "archive/NIIM-Printer/public/favicon.svg",
+    "bytes": 1580,
+    "sha256": "f827fc75fcd3493bd974aed78357e73f075e57c9dc02385325879f2f1e21e8de",
+    "git_blob": "694f181a3bc39438cb0a4a1addd76158e55ffa00"
+  },
+  {
+    "path": "archive/NIIM-Printer/public/niimblue.webmanifest",
+    "bytes": 456,
+    "sha256": "a046e3f261aafe2e76545afc47903785d2d5ad263e7bdbd774e644b6a9fee23c",
+    "git_blob": "92e76757e6e91538c425d2809ded644b3451adab"
+  },
+  {
+    "path": "archive/NIIM-Printer/public/og-image.svg",
+    "bytes": 3459,
+    "sha256": "f4ee14f03531dce33272f22cac2e867fbe7f2ce34f93cd4f6824cfdde90935a0",
+    "git_blob": "1ce3342af292c3bcf4be9f185f71530a6df509b7"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/App.svelte",
+    "bytes": 103,
+    "sha256": "315e4d00d3fb53ce8fe7d670de6eeac0100c46c7ce6607ae3c92141a6df5e2b7",
+    "git_blob": "3c30082009137b8cc1d28baa4126a5ac2fb72b45"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/defaults.ts",
+    "bytes": 2765,
+    "sha256": "c3fdaf0eed627e89b0a8d00b3bbc7006d07fc18a5413c58364b1188134d549d9",
+    "git_blob": "e50696203604c3f73e6e1a370725afe9281cca76"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/index.ts",
+    "bytes": 408,
+    "sha256": "2c9e73a226eeeccbde6cb0fe61555e96d50b31cb904a916c2ecf5922ecf3159a",
+    "git_blob": "c725fc8b88e090292aa31dde3b456b009bc37aa3"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/stores.ts",
+    "bytes": 5247,
+    "sha256": "b784851193683e3345ecb033aa413eb0355ad425fe7b983c62fd22d70ceef9d0",
+    "git_blob": "15911ba89330156deb02e4daf54fc9dc54189f1f"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/types.ts",
+    "bytes": 5653,
+    "sha256": "70a238c2e5e138e5fc57c021e3cf0036e9b768774c8001781a82561f3f28f5b7",
+    "git_blob": "a40ad007e9bca2dab8399acdacb68078cfbd3e38"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/vite-env.d.ts",
+    "bytes": 469,
+    "sha256": "00fe4bd2d961c06299f01c6886ac6e21a733efba060055c098e9dddd204cf02f",
+    "git_blob": "086eeec112a7172831622b846c7d2fd5a12a6b13"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/DebugStuff.svelte",
+    "bytes": 1320,
+    "sha256": "c59894efa2571bc1399f1763abe98dadcc53f29f420dadd67271bbf1e141a3cd",
+    "git_blob": "e69fca39200e904240a6125f6e8dc332d6fc145e"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/LabelDesigner.svelte",
+    "bytes": 40669,
+    "sha256": "23858f56ed02ff7699714d1aca08e24da6956c1175edb2b44487b53c05624430",
+    "git_blob": "047cdeab36c964c323b7de25dc51320234f278d4"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/MainPage.svelte",
+    "bytes": 5587,
+    "sha256": "46e9e5fd8a569925fd2102d1eceeca93d7bdea2efb947517671d30fccf361a07",
+    "git_blob": "a040cdf374743a3873fe5a92004ccd5cb74a247a"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/PrinterConnector.svelte",
+    "bytes": 12345,
+    "sha256": "3e752c2452e3a2543f318dc74bfbb6d32f6cb530330388c01031a1f5cebcf8ed",
+    "git_blob": "7c7fbbd66ea89bde16c40d67024a65f4629f5fd1"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/PrintPreview.svelte",
+    "bytes": 23380,
+    "sha256": "0ec988e774eaf225b874b39f9e9847d5633a69ee75711b2215e43ebfda427758",
+    "git_blob": "68071405c2c73b396451ab9fe2a2213fbe73a05c"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/assets/mirror-copy.svg",
+    "bytes": 3157,
+    "sha256": "b6e9d58000d205f90e9c6988b47bbaa2073d7f77790af637161e483412f95499",
+    "git_blob": "b29594f2898dfb6b8bc6939ea222eee307c27273"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/assets/mirror-flip.svg",
+    "bytes": 3158,
+    "sha256": "302d559512f4334101b0ebd4c942419a6f1b0c04c5e13b4c5bd1454c0f911f7c",
+    "git_blob": "7bb23816e65cd5cd2a53fc9c9f7595a692b6bccb"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/assets/mirror-none.svg",
+    "bytes": 1933,
+    "sha256": "50368ce26bf798898853f74a927be793e6e82ce3d8fb1fca01c53dcc113afb35",
+    "git_blob": "df3845da20fcb71358ef280de846f8ca91e48e42"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/assets/print-dir.svg",
+    "bytes": 369,
+    "sha256": "4b26b3c1bf67681ca65fef9e2405911ca1f03ed1494b21438a9398561d171c43",
+    "git_blob": "9f5b54959a6ac7eb1c26d5df0d3b341d71ced1f0"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/assets/shape-circle.svg",
+    "bytes": 282,
+    "sha256": "9dca617431a2b210dfa0546fd2151de22c520601a89c2cae9e60310709090378",
+    "git_blob": "029122d2f77b193a008cb374cd65d74fd8c925a9"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/assets/shape-rect.svg",
+    "bytes": 281,
+    "sha256": "37a1fa6887aa891891021437b1fab9c1f6138f6cd764285d726c9feff6788cce",
+    "git_blob": "faf3c2bd85104b22a286e90af73fcd3b44750a31"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/assets/shape-rrect.svg",
+    "bytes": 286,
+    "sha256": "3102e0b2f186bbb36467c574e55b36f4917e24c2c2dbb026b9957a52ef68e34e",
+    "git_blob": "cff3346e0dde1f2594c103ea8e35330c07fe199a"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/assets/split-vertical.svg",
+    "bytes": 362,
+    "sha256": "b5bdea3c2ac02babb74a1b5fa2d65d90dcbc6986b34d4e863330c38ca5605496",
+    "git_blob": "e82d9e83f0d7c37c10656b8fc95b52146b25dc98"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/assets/tail-pos.svg",
+    "bytes": 371,
+    "sha256": "101ef46855b5d99c0698ed23b4b6196b9598cc9c92d1c14343bbd984fab0ab77",
+    "git_blob": "b9b6b352cb72da9c47e4cf3cbc0c0d7ef54e3ab1"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/basic/AppModal.svelte",
+    "bytes": 1556,
+    "sha256": "5ce8a4906aeba59b68e1cbc37d656dd9fe313e66b4c7c04efb82e34969cc56e8",
+    "git_blob": "bd8805589bda46cded6bf5da1aba6aea4b1c4602"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/basic/BrowserWarning.svelte",
+    "bytes": 825,
+    "sha256": "70fee189a6943cef9b25f1a4d6f6b3beda9e9649040ad41163e3281bf7ba4c85",
+    "git_blob": "6412cdd2564e42da5a8fd2cd3dcbf5aed308b471"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/basic/FirmwareUpdater.svelte",
+    "bytes": 2790,
+    "sha256": "4f62128c5d4c890ad86ca338421b7ce7d210c58d9686a548f2e9cc0418d2e956",
+    "git_blob": "1d2108dc295fe807f1d18d3fbadc15c88f571051"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/basic/MdIcon.svelte",
+    "bytes": 927,
+    "sha256": "945e03a0115a6ca1b070c64b41d49e59e1769a96e008edd3df4bd5b32cf0b360",
+    "git_blob": "ef475e2b259f2949b7d62a4aee8fedf0347315c0"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/basic/ParamLockButton.svelte",
+    "bytes": 576,
+    "sha256": "c41023ee253c545b1905335991f05202330f28be9f3a098822efeb252bca5ca7",
+    "git_blob": "95c24a2e9fc851ea15292db0862277c44209f782"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/ArUcoParamsControls.svelte",
+    "bytes": 2058,
+    "sha256": "2048f77ed881ec84cf22c252db8f533c38f848042b425c5f9249785c9a256b4e",
+    "git_blob": "fd1a3a6e68373dcf8209a314fe8496ddf8c621d6"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/BarcodeParamsControls.svelte",
+    "bytes": 2434,
+    "sha256": "b46a33dd054c5f17c169ebfb32ee7fdfdcff88fddb272f129f832b7c749d92d9",
+    "git_blob": "cd4f76d8bf9b6cc22216272c06ec0d500d951328"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/CsvControl.svelte",
+    "bytes": 2158,
+    "sha256": "b6ab714dc156371e94d55a5174fd9ffef204c45480a82031db97747499924352",
+    "git_blob": "892ca37b911de132cfd8f4570a0595257309c07c"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/DpiSelector.svelte",
+    "bytes": 659,
+    "sha256": "fc601fcad905b0de311caf4035692518a5f5e1b2859120afb3e9495e18304977",
+    "git_blob": "e92b65605a6b7b0f5664b9c7eb9087d75842bae0"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/FontFamilyPicker.svelte",
+    "bytes": 3979,
+    "sha256": "0948c6b33fc0947ec1e663a1a6365f2ea4ceeb2c6c057ceacb710a6cf75d976f",
+    "git_blob": "81d054b3d4482f96beb3aceabdf2937b9e511bae"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/FontsMenu.svelte",
+    "bytes": 3040,
+    "sha256": "279894275ecb795576594a14b56cda36b04c61ea835a758e6f4a627c0d98284c",
+    "git_blob": "a37f4f491eec6f1c247d3e4cd1e364345587bfe2"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/GenericObjectParamsControls.svelte",
+    "bytes": 4249,
+    "sha256": "7a1904ed41a8c899e12608c53a3c595e330faa2f59ee7271bc6faa17263bfa97",
+    "git_blob": "dc316a8ad95c1ce3b8ed3cc1f4bce222746c9230"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/IconPicker.svelte",
+    "bytes": 4682,
+    "sha256": "b18eeb6cf75d03f4d78cafb5ba9bba60882e68948f10435cf8e8ce3fb7595c9d",
+    "git_blob": "c668cf9603c20167ec7a820b4d9069f7a0497222"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/LabelPresetsBrowser.svelte",
+    "bytes": 3391,
+    "sha256": "46b964d4fbe785a653238c8f3b8e9936880a62f0c583a20d028e63929fff9951",
+    "git_blob": "df4ac455bb94a5ea96bb2df48c9fd5a298c1bc7a"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/LabelPropsEditor.svelte",
+    "bytes": 16965,
+    "sha256": "6d7c3135bec2e36f3d2f0e45419035e10870aace476e00cf1b1ad5d538a524d4",
+    "git_blob": "878b45db0774395866ada21f2fb0efd0077f2308"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/ObjectPicker.svelte",
+    "bytes": 2567,
+    "sha256": "3c264ce65744561ff03c51b0383568bf86c49363f73c6f9623a0469a7053c3de",
+    "git_blob": "3e37deeacd9a9778c237f3e32d3f183986a7bc2a"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/ObjectPositionControls.svelte",
+    "bytes": 5313,
+    "sha256": "fc15dad3e546ac160ddecb4cc6678fcf1357ac634f4a97f83b7898fbf1b2fe3b",
+    "git_blob": "bc72a1aee6b811c62c4de3447a2581aa805ae032"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/PdfImportButton.svelte",
+    "bytes": 2133,
+    "sha256": "d7bb17242eb6bd044fd2ec3a798958c0762a60c677ea5d6324c597bcb1fa59f2",
+    "git_blob": "2329e0cce2b571dae46f46936dd0635536309ef5"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/QRCodeParamsControls.svelte",
+    "bytes": 2812,
+    "sha256": "064a98a2ddaee5dd11537545667306ead155cab11ec5774042887b73be2e47b4",
+    "git_blob": "90879daa486c0e44a9a3682017332cef5242c9e5"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/SavedLabelsBrowser.svelte",
+    "bytes": 4043,
+    "sha256": "3a8bf6d885636854489138088829ff2a71447302945a7d79df845abdd8473c1d",
+    "git_blob": "dba99864bf9b1d98d59ff756659a20059f185de2"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/SavedLabelsMenu.svelte",
+    "bytes": 9091,
+    "sha256": "7801c3d24958fa53c089641c66d9fe2a9e99bcb7f459d28552795f85887b374e",
+    "git_blob": "c274b5e1f39d61e8d39a732c95c5bb0ca08c26a7"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/TextParamsControls.svelte",
+    "bytes": 11127,
+    "sha256": "f8f79b6bbc078a9fa3a181a4f2963ffcee8d8dd6506ab5588a000141f854e050",
+    "git_blob": "89cfe5a0da5e8f0caaca547c8ba77133ceb626c2"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/VariableInsertControl.svelte",
+    "bytes": 1953,
+    "sha256": "b5ad016811113b7af5798d0325a8830fc1497f6190cdef1797da89dc8f5f9fba",
+    "git_blob": "06bb54e8a9c6c6845532e379664d4a4418df7559"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/VectorParamsControls.svelte",
+    "bytes": 2692,
+    "sha256": "3ad2804e3daf8978a605d42e153678b5bcb9c4cb83a6fd7d85ab98988b965d91",
+    "git_blob": "b2baf46736accdd0e19a4f0054ce3b2f077fd152"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/components/designer-controls/ZplImportButton.svelte",
+    "bytes": 1878,
+    "sha256": "209ca2856c9b54211baaecce993e87e4914dd1f1edf5a70a88373db2db5210ea",
+    "git_blob": "99cdcd7f5af02fe0dfe387da5cb1aab883dbbc5a"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/fabric-object/aruco.ts",
+    "bytes": 7501,
+    "sha256": "82cc4dcb8c7eb25b014e69ffdc2d88aacd470d10cd8cdcb5b8e1519e404bcec9",
+    "git_blob": "0bc44b134cf0d97e602b2da04dea14b5fb4ed238"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/fabric-object/barcode.ts",
+    "bytes": 7404,
+    "sha256": "641987206d3da1d1d6bb0140eac2870ae020c0f3aac190db5a9a31511fc431ba",
+    "git_blob": "0ffa2b3013e9c0162b5eb31e29b9dc05975a7bbe"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/fabric-object/custom_canvas.ts",
+    "bytes": 16667,
+    "sha256": "5edbecaaa406fa769a1d2eecb4353df13ea5223c476bd8bf047db8047a19f8d8",
+    "git_blob": "c31d65d03c9304f4516d77a4162a53f0f9ec6e0f"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/fabric-object/qrcode.ts",
+    "bytes": 3540,
+    "sha256": "5632e1b82e4c85e07eff57b68d461fd9539a4bf46206213e10498a6e979d8b83",
+    "git_blob": "ceb734a190744beca3af3a6f1ea6e79fd1128e4f"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/fabric-object/textbox-ext.ts",
+    "bytes": 2921,
+    "sha256": "78c3779516dccd3032ff429b7e91cf287c26f19e821095d0eca0e50ab5a5eacd",
+    "git_blob": "aa37d8bba7b98a009803573ecf54d8b2cdf20893"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/index.ts",
+    "bytes": 2372,
+    "sha256": "1a04fe44baa0dd88f1ff16717479b14a3f0cf59016638df0f650a066996f6379",
+    "git_blob": "b5991e5365d52cc7f6ce253fab04a3ce5cba7593"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/ar.json",
+    "bytes": 9759,
+    "sha256": "70e72ad290a1ac1cbb84a24ddc66e819bf59cd1ecdaf895d0237113a00be42be",
+    "git_blob": "be829080d7e4f6f7ffb1277cd467b19a3f5e6aff"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/be.json",
+    "bytes": 4,
+    "sha256": "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f",
+    "git_blob": "69a88e3b65423624fe7ea8b0f8beefcc62cc3d5f"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/bg.json",
+    "bytes": 12795,
+    "sha256": "54c3278cbef8d9c9e1b96627557a0630e52d8d5ec3f5a07b25fbb6f16f7cd96c",
+    "git_blob": "1f5f66173fe352a001b983092d55f8974d4b1b91"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/cs.json",
+    "bytes": 9764,
+    "sha256": "fd974308290022760d77aaf53b3f8d5f28fa53fb84e3be6248cddfbc4660606f",
+    "git_blob": "d5ffb989b61eacc7e04122f8dd424d27dcea7e66"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/de.json",
+    "bytes": 10173,
+    "sha256": "5827d307589ba1b86019003085aac8ab4909d0f6cdc009631f07147b37f7dd82",
+    "git_blob": "5e1558967b24518c5c038ec1f9093cea10d90cac"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/en.json",
+    "bytes": 9666,
+    "sha256": "782be7943411a9d2f3874798fe1fb2a195aeba2dd8a1c0da3a8be2a03205b5f2",
+    "git_blob": "40420b15768f42e0cd93c8dbbbb535e5d377ba4b"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/es.json",
+    "bytes": 9044,
+    "sha256": "5e5b719f92d58dccab9ff055d844ab9e5689fbd4aa78e435a7cb07bb462c47ed",
+    "git_blob": "cbd4abda8ac0e8e33030dd82d65a6a0fbef682a0"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/fr.json",
+    "bytes": 8486,
+    "sha256": "9c73788feea35aab039e5a0719904db1044309c9c9c030b70409f64e09c1cd81",
+    "git_blob": "003b2e2e1ad7fbda1f5ea22b198b79326b4adf57"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/hi.json",
+    "bytes": 14906,
+    "sha256": "ca9d45d4d3f88c2375fbbf16c30aec8dd20bdeed40d457c8800858d4752936e9",
+    "git_blob": "cf29e78f93c596f4aa682b329ca1b660187b4774"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/hr.json",
+    "bytes": 9064,
+    "sha256": "3de0d51aa840cc67103d80e44fe76de4b29fe4327c9782ae07d99f9cf5de95e0",
+    "git_blob": "890dbb2e343d55914c75a9716e0a42cd8bc3cbdc"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/hu.json",
+    "bytes": 8516,
+    "sha256": "0f6bed8b85073f11fc259d5f5a15c76cd52697ca7efede38c34ef6c59d5b160e",
+    "git_blob": "f07ff588287c4bcedc0946e8a3799ea1dede4d72"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/it.json",
+    "bytes": 6227,
+    "sha256": "c8eddbbe68c8106147d0cc426c35f7b01cf65204c8107113518d47c56197f737",
+    "git_blob": "e90ef30831d48a78badd5273466182672bf2071c"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/ko_KR.json",
+    "bytes": 7919,
+    "sha256": "c936892afed7cc2c8949e7b08816d740413cb083cb5d1e87802023b89cd25e64",
+    "git_blob": "fe13f4d0f7fd65b2948aca3f5416ffd7c4bdcd35"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/mr.json",
+    "bytes": 14456,
+    "sha256": "34a8f101d86126d895334269e30c86a44ac1e3626a89ee2ffd585a11f95044ee",
+    "git_blob": "9e7a6b6d46e3507ef7793b56efd1087b8586d369"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/pl.json",
+    "bytes": 10269,
+    "sha256": "719eb6653d73d77ee228b2f9424c34ab5542f161edd8186df8af37485c30b75e",
+    "git_blob": "9dff7a4c3b29a2e7d17659dcbe0c0ba5e093ae8a"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/pt_BR.json",
+    "bytes": 8794,
+    "sha256": "12020ead6cc54aa1b3443f8e66d9e71558de255dd45dad5bc34a44128eb7db4e",
+    "git_blob": "46cd449c71caab7ebeef3f00800f85279893ee52"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/ru.json",
+    "bytes": 13017,
+    "sha256": "f49f230d2cb2f3c3af8b8759a803088b229f147b0f5ea458d12adc48b7152f95",
+    "git_blob": "6a09ea1732dd03d0be38e7964860689ad010b72d"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/sv.json",
+    "bytes": 4605,
+    "sha256": "8d62dc988cfe1a436d3acf031a1876d454e2c00c24bbe8710e73218084412b26",
+    "git_blob": "64f74c640e666be0414cf268fcea5ffe23a7d1e2"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/th.json",
+    "bytes": 4,
+    "sha256": "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f",
+    "git_blob": "69a88e3b65423624fe7ea8b0f8beefcc62cc3d5f"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/tr.json",
+    "bytes": 8722,
+    "sha256": "ae254f0841bd250112d907147b8d0529e012228926e49b3c0892448071736585",
+    "git_blob": "df5d095493bd9d5f45a618b40ceacf17252abe56"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/zh_cn.json",
+    "bytes": 9816,
+    "sha256": "9f932d9d7aff3d010e82e297d988226f0afc00f431bc06f281a34aec323434e2",
+    "git_blob": "049b79b909783c7d954602022483fb0cd096672d"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/locale/dicts/zh_tw.json",
+    "bytes": 7411,
+    "sha256": "e4bc4b145eb87432f3b3df2fb29fb20f56c70adb85419ca6a6dd93a24985169c",
+    "git_blob": "ad8a6a5c94ce0a6b3f7a1173244a96777979e273"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/styles/font.scss",
+    "bytes": 1052,
+    "sha256": "258f62765d563dd042b39ac2e3880fdc614fd1faa47ab06cfda67f25c19d30fd",
+    "git_blob": "3ef76725691421318a65403274c1f8d1fe4f9f0e"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/styles/mdi_icons.ts",
+    "bytes": 56664,
+    "sha256": "b392488468f5163b5ab55dd85b6da6abaa4130258b41b7f2212a6a6ded704cdc",
+    "git_blob": "cc3a10363f56a43a81ed31059480ee00ffcd9f2a"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/styles/style.scss",
+    "bytes": 2167,
+    "sha256": "242efaff79e37acbd0ab18a75feece6d1f27726b2a9707b33ed8e71cb6f4a910",
+    "git_blob": "9eddad22cd7bf88b5285cc58d56c55914a124a99"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/barcode.ts",
+    "bytes": 12458,
+    "sha256": "d97b24362ba9a4451606e0677ffcbd58cf9c483aa01e6d0f6b7bc5e3519a7f18",
+    "git_blob": "ab06e957bfa9dd29c343567bd661edb13b11998a"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/browsers.ts",
+    "bytes": 746,
+    "sha256": "a5b16b533e7923b3c0fba14f46804450452b775e70cdeb6c7f1bc974551e6a93",
+    "git_blob": "3ee40e33a604bb97b276b1b74418233d674a988c"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/canvas_preprocess.ts",
+    "bytes": 1460,
+    "sha256": "e71091a0a5facefe535eadac3a5fe4ad9e61ac744f674aaaa462ca89035ac8a0",
+    "git_blob": "df381370a21560eb8b88fafbced7222f0c1a1147"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/canvas_utils.ts",
+    "bytes": 2773,
+    "sha256": "1dec6cbfe564807eaa8c65b16798611dc146d5d5b96ba559455f9b401512b051",
+    "git_blob": "a2a1e7c4a5f1d470ff37a6c72a5bab8d4b2a78c4"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/dither.ts",
+    "bytes": 3542,
+    "sha256": "c507e6ee54ff67dd41cdc15a7f49c545ba400a02d60ce65574fa72353d1362e3",
+    "git_blob": "5fd6e932ec1db11d3ed9e8d71d4b5f1776b48dac"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/file_utils.ts",
+    "bytes": 14006,
+    "sha256": "a2bf0ede098c58fe3ff889b6e02a17f5f116dc2fc8649f1846eab6b8473220fb",
+    "git_blob": "ed28ffb6d41ae3c380cf37856cc619465094caee"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/i18n.ts",
+    "bytes": 854,
+    "sha256": "2da7bf78fead9248d666ab7a503a93dc8fef76a768e53ca10e366c8b0fc823cc",
+    "git_blob": "b3fb1c13a6752e851c0f8949da048d0e152923b4"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/label_designer_object_helper.ts",
+    "bytes": 6116,
+    "sha256": "55dbc3865fad025a7da885e805fc0fc9f5cb5a0076defd9b4ae054fce13027e9",
+    "git_blob": "cc28594f94a29968dc7407e5b0c95819e75e4ee5"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/label_designer_utils.ts",
+    "bytes": 2540,
+    "sha256": "090f735eb978a21ce6061989bd4411637599f28ab8c7ca077a53c22369f683bd",
+    "git_blob": "c662440fa1d0dffb448d0c0b0d69158a56974eb9"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/persistence.ts",
+    "bytes": 8249,
+    "sha256": "9c0eeb01315f677728f1be22a287af1cfe6070d5e36b209c722606b9e1a8fdc8",
+    "git_blob": "4a3a665cf584b570646bb48a445938fbd2774330"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/post_process.ts",
+    "bytes": 4292,
+    "sha256": "04246a329bf3c2f5e1353af0aa0d6fff642707a7469359a8f7679981b66cca38",
+    "git_blob": "984bb1c4b4964c7e6cf3098a7739f028f873a6f8"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/qrcode.ts",
+    "bytes": 1510,
+    "sha256": "cef93e2e8d819a5ce0e0aa5f7b1dcae2df67674c03a7fa6c7177088c58f35577",
+    "git_blob": "49daca2edc166c09f7832c8cf4c6f35c856c6d51"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/toasts.ts",
+    "bytes": 671,
+    "sha256": "080e105ec5b474f3b28912e85d0977b9ee04ba34f0340e86924f47764b440e7f",
+    "git_blob": "78e7d8337acbf1acefaea9a7893f2e94bc36ee20"
+  },
+  {
+    "path": "archive/NIIM-Printer/src/utils/undo_redo.ts",
+    "bytes": 1559,
+    "sha256": "7a28d120f0060b0881fe98196cb6ebf215adfea4517d32144de7765739a6ce53",
+    "git_blob": "375375577eb1c4834edaef313a0264777d95ae79"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/.gitattributes",
+    "bytes": 85,
+    "sha256": "0f9ace7a7092b7ddba9683f2a8ec95c26bd067a939389934c34e8d71cd31e491",
+    "git_blob": "1586360c3d05953ded8174bb089dab7a6499bdf4"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/.gitignore",
+    "bytes": 70,
+    "sha256": "c17052dd17c231c4147430f7d13bba7d41ccce05f70ffa210edb85bf8cb08388",
+    "git_blob": "b0999f0fff8161ee0c59da929aad56c1a7d55001"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/capacitor.config.ts",
+    "bytes": 643,
+    "sha256": "faa59394a1f59005d5300130c33ab91b893406a9b408a66e16a23262e261faec",
+    "git_blob": "84c4726781dd7fcf6986f249fca7906c593d8edd"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/package-lock.json",
+    "bytes": 47151,
+    "sha256": "6c3a9fb8cb5a528368021db30f6a3a0e82810ebae62119a27e1944bb4562bd21",
+    "git_blob": "44e6bffa421607cb08bbadb7fd2a4a12376c9c13"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/package.json",
+    "bytes": 930,
+    "sha256": "2337612e5b19faac19941995b6f0d6cff207f1ee96b827616d6b33a58013005c",
+    "git_blob": "d6c3b26365a8fe28a0ca036df0b0b9172fdee223"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/README.md",
+    "bytes": 1471,
+    "sha256": "81877f110a487bf82bdd6d5b811aa723ef6ba37691f70e2649c4f50b8c6e53c6",
+    "git_blob": "576c69985cedb4af840432b91ca8541bf3e52c0a"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/.gitignore",
+    "bytes": 1925,
+    "sha256": "e1e2389e85e0216d031e1d50fb05f1c1818c1b093bb615bba5e51e5d79a23076",
+    "git_blob": "07c67337a4664610ffc16d683ce99c59a965461f"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/build.gradle",
+    "bytes": 666,
+    "sha256": "735dafec431688f5202b4f4bb40e0ef9a78e3a3dccb98fcdb5b2725195564bfe",
+    "git_blob": "162d943434d41272d9d206d96be0cbc0e20bd509"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/capacitor.settings.gradle",
+    "bytes": 785,
+    "sha256": "5dfc0ede15e4cde2b2566048891825f297795c9af2a15436ae77c6a9d2109363",
+    "git_blob": "91d1664eff3c7a50e88c8e71a4e4b4120c9a9374"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/gradle.properties",
+    "bytes": 1009,
+    "sha256": "a0771d2d479ce151dacc09fab95282de4dea3c94a5f6c71b5cc40c78bbc3025e",
+    "git_blob": "ac73da143ce4fa4f0a491075947ee7029205d7ed"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/gradlew",
+    "bytes": 8984,
+    "sha256": "28d2c82e7f9cca986ee8da10ba939cf9260d682f73936b2b6d2545e35360ce7b",
+    "git_blob": "a4911a5d4cf8024d0733d9d8efb8d4449ffd4e20"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/gradlew.bat",
+    "bytes": 2937,
+    "sha256": "1d297e00bd21de3ace22b4d7f2de1f9dfa858883d66bbf7c1ccbecccec8f4f3b",
+    "git_blob": "5eed7ee8452842305a18a4eb967442683808226a"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/settings.gradle",
+    "bytes": 212,
+    "sha256": "9c6c826e55d5cd4feb1f18f49ce3ab7d19f33bf30893d8750afb2c3b45872934",
+    "git_blob": "644a815fc48ba7965e8de5f71af68f6835bebe76"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/variables.gradle",
+    "bytes": 513,
+    "sha256": "80ca02724ff4a95d1192481c68b00474cb1f8c5767eabbcea00deb28049d06dd",
+    "git_blob": "d69c715cbb6cfbb306a56a2fda6803729c56aa39"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/.gitignore",
+    "bytes": 28,
+    "sha256": "93bfe8edb44bfa558fb5e58590c1efd7cd8a5c3293eb69e1b762fac908f39b59",
+    "git_blob": "0e911e5284805beb030528eddadfffec3d25e5b1"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/build.gradle",
+    "bytes": 2339,
+    "sha256": "d24a39c88db7a05138ffab1564b17d13e6fe83120fbb4e7577bad8b0bb7a4163",
+    "git_blob": "7f6a170b695cdccc4daee26bf099b5a2f0691b2d"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/capacitor.build.gradle",
+    "bytes": 587,
+    "sha256": "b5a5db54da1f6bd5c4e36bcea1f32a3d4829c9b76c107a8e12cb3b4ee7bb61ff",
+    "git_blob": "8f11bf75cafca82c19f024cbff29c5a08b31ee1b"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/proguard-rules.pro",
+    "bytes": 772,
+    "sha256": "a62624d7b48278452544f45d30648f7cc0dafc24561bd2e95074d4f5dab4313a",
+    "git_blob": "6e7ffa997ebe9c6370c559dda6ddfcd0d9d7f74c"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/AndroidManifest.xml",
+    "bytes": 2538,
+    "sha256": "2658489523711bb119142588b42245b8a7ca1fb2a2b518d18d8fe9ab1768f6d4",
+    "git_blob": "f4feeffd9e8ec434829c3fbf4029f1eb7f244e85"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/capacitor.config.json",
+    "bytes": 202,
+    "sha256": "93754dadb0c5ffd13beb30cbcb8130e6e21933c8d510c38fc45c73a91b432474",
+    "git_blob": "59e7743dc219808ef57bdfe7ba63f969cc077cea"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/capacitor.plugins.json",
+    "bytes": 453,
+    "sha256": "ff316441a55d7c4b74fb8e7dbec743e1828a54c1911b55598b285508bef21e30",
+    "git_blob": "57e4ffdf33271e932e359ab1c08736bb4dd165f8"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/cordova_plugins.js",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "git_blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/cordova.js",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "git_blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/favicon-512.png",
+    "bytes": 9868,
+    "sha256": "4a5ff01accee898a7a6d18f8fb160e009f659cda7f97b9193e90660ccb758630",
+    "git_blob": "0faee29af3cbf19684f69c8003034da5bca1ab99"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/favicon.ico",
+    "bytes": 16958,
+    "sha256": "abb1f4ca88f0aec47331fd0edad899a5b99c88d211219b0d674098bbdd201563",
+    "git_blob": "8b09f9cb0b86ffb0d10b3d74fe223440e5a2ea96"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/favicon.svg",
+    "bytes": 1580,
+    "sha256": "f827fc75fcd3493bd974aed78357e73f075e57c9dc02385325879f2f1e21e8de",
+    "git_blob": "694f181a3bc39438cb0a4a1addd76158e55ffa00"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/index.html",
+    "bytes": 2135,
+    "sha256": "90a14fea57f08dcffeba2ec610100b1741235998fbcee8418d17e2a22fa4621a",
+    "git_blob": "eb6ba32712e66f4f4cf95beba38fa2d73ce9eb65"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/niimblue.webmanifest",
+    "bytes": 456,
+    "sha256": "a046e3f261aafe2e76545afc47903785d2d5ad263e7bdbd774e644b6a9fee23c",
+    "git_blob": "92e76757e6e91538c425d2809ded644b3451adab"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/og-image.svg",
+    "bytes": 3459,
+    "sha256": "f4ee14f03531dce33272f22cac2e867fbe7f2ce34f93cd4f6824cfdde90935a0",
+    "git_blob": "1ce3342af292c3bcf4be9f185f71530a6df509b7"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/assets/index-Ch45Jrk3.js",
+    "bytes": 362061,
+    "sha256": "ec435286c205d02fc572f70b271ffa1d2be818cf535e593a0db949c3c9f1c34d",
+    "git_blob": "96d07461058ca3e57d471d2ff072d79eef2da51b"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/assets/lib.1.other.C7qPCUQC.js",
+    "bytes": 182320,
+    "sha256": "cc00a64a92943faf43befcdcde8d7748916bd7c301c9628d6036e322f5de024c",
+    "git_blob": "377eca44df256a2115e1cec0ac42aa27f938b0d9"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/assets/lib.2.cap.x_-tZ9P6.js",
+    "bytes": 10017,
+    "sha256": "1a97452bfc8a3d348ab13afb9e4dcd8be20b061672d54c29fac5e21e4b7d0cc3",
+    "git_blob": "d1715470fceb54142301e72834a8af1b3a403f23"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/assets/lib.2.fabric.i19f4HLi.js",
+    "bytes": 289028,
+    "sha256": "090b3cd96eb136f7c05537a159ef16eb73a4076913e7cdef449ace0d22dfc5e3",
+    "git_blob": "269e0daea30053c8050c9a58adeede8ad9d699ed"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/assets/lib.2.niim.CFcSW2Xh.js",
+    "bytes": 77946,
+    "sha256": "965cc353c9aac3f65b8ce84e667cfd1352b3c822403d8cbc706bb4dd47cafa8e",
+    "git_blob": "e65253f3d677aee031d9287ab11003791cbc4083"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/assets/lib.2.pdf.Db4OFiBi.js",
+    "bytes": 489678,
+    "sha256": "0e4f613ffb183b937cd0a577b94f390903a82e8e6c7c023122abb060d4fc2908",
+    "git_blob": "d0f12f343c759210881981c738f4242a776ae744"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/assets/lib.2.zod.CWdA-D_v.js",
+    "bytes": 275128,
+    "sha256": "4b8654b1904bcfdcf90dabf4384afa751ec188b12ee973857f296478a8f35fbc",
+    "git_blob": "5fc9925de310559d2ed157d2f37cdffbf1a187df"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/assets/material-icons-kAwBdRge.woff2",
+    "bytes": 128352,
+    "sha256": "8265f64786397d6b832d1ca0aafdf149ad84e72759fffa9f7272e91a0fb015d1",
+    "git_blob": "5492a6e75937db19f9ba860cd2575744887fa26b"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/assets/noto-sans-cyrillic-wght-normal-B2hlT84T.woff2",
+    "bytes": 20080,
+    "sha256": "6ab64433de6077ca5ad31b05420450ce986a616a4ea47b6ad16f3217055dafc3",
+    "git_blob": "a15d87284e5e1573ac09e2838cb781ec963f5459"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/assets/noto-sans-latin-wght-normal-BYSzYMf3.woff2",
+    "bytes": 35820,
+    "sha256": "51ca196f49a33e79e7870ff88ebd2829a3f627a51e7d690986618f0e7ad2b52d",
+    "git_blob": "7be97064bc45ae23f52887b3c1d2bad90f000d30"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/assets/pdf.worker-Dg_VPFYK.mjs",
+    "bytes": 2383409,
+    "sha256": "b4e582882f5e811f4d1b7b511f68d9a0c3209141e6f68856f01408c5cc155131",
+    "git_blob": "ff381bb9b154685f8ed641b6c1adabb4c732e1f3"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/assets/public/assets/style-QP236Fu8.css",
+    "bytes": 193286,
+    "sha256": "91e1805727317877c301872ae538f2328104eadece29b66071e9b96657f9b209",
+    "git_blob": "473957298b30d7927dd5c6a9de05c0f1a9695f4e"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/java/ru/mmote/niimblues/MainActivity.java",
+    "bytes": 127,
+    "sha256": "3b7da160304d3e7eca4ca6ad1e73d5fc7bd231a6d505d8f21ba67c42059e9c43",
+    "git_blob": "a16c46f70e9c4a97eecacc8e1fe2751be3ee4674"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable/ic_launcher_background.xml",
+    "bytes": 5776,
+    "sha256": "61acabdec7880108a9850fdc6cea1a6fc974114bae875bdcadc70078bf4e615f",
+    "git_blob": "3a37cf6d00a4e21741fb324073b8f26e9fae8ebd"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable/splash.png",
+    "bytes": 2582,
+    "sha256": "ce9577492bcc8f6979d23739e85a1df5828bc7902a6c22e28a93d6c7a9acbe76",
+    "git_blob": "59a2b59630857812843f04e27dba69abd32387b7"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-land-hdpi/splash.png",
+    "bytes": 4883,
+    "sha256": "27b4681736f45dc992058468e90c394e442a763a960c3bfdd6233cfa672f8749",
+    "git_blob": "de3db6d672814f032fdb2a2a0e58cdc9f245b442"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-land-ldpi/splash.png",
+    "bytes": 1786,
+    "sha256": "10b9069140fd11fcc0f6e0639b80f3de9dc89cb8e77c5b90c3823bd297f296d1",
+    "git_blob": "be232ebfb58605a51d5ed010b2f467a829efa825"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-land-mdpi/splash.png",
+    "bytes": 2655,
+    "sha256": "ca5380bf6638607272f83e54aa9d572c58b34b9c87838ea81eca60dc4b8901a0",
+    "git_blob": "4a8cd6570cec6aceb61af4bf220b3415156912e5"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-land-night-hdpi/splash.png",
+    "bytes": 12115,
+    "sha256": "c24ed2a42c82fb1f0a2fe05b60678c893cfb2b547eea98f95961fad49d360a81",
+    "git_blob": "b504065ab80c5a618fc1d413f4c8ec153cdc6015"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-land-night-ldpi/splash.png",
+    "bytes": 3197,
+    "sha256": "17926bb4665b379c02090a53830908b383ca59167d6ca0cb1681762c50fef521",
+    "git_blob": "5b9e6d0cf147883bcd64425db76cebcd70531876"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-land-night-mdpi/splash.png",
+    "bytes": 5751,
+    "sha256": "695395dc03d119d7a2caf9595fe4f3df17962e70f47d643b9fbb4c31bd45926f",
+    "git_blob": "0e33090b89ad28cce8c1867637ece94a9b69b3f0"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-land-night-xhdpi/splash.png",
+    "bytes": 25154,
+    "sha256": "ad76385f566f1d8cf34489b48b95a521b2dcd21d11f3548e75d32a8cc7f3d5c4",
+    "git_blob": "d923a2154d96547dfeaa08abcd483de2e6a01258"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-land-night-xxhdpi/splash.png",
+    "bytes": 39516,
+    "sha256": "39b46e027c5662f5d8eb7966a092de18fecc00155b05f7419d41239e8f6ce2e6",
+    "git_blob": "9f5292165c1e4950d92d1e54053ef64a2365ea90"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-land-night-xxxhdpi/splash.png",
+    "bytes": 58791,
+    "sha256": "fac45140c77ccf6a8e38df80eb0dabe7e0048b29480fb9c8a23e504e90e0bae5",
+    "git_blob": "9695fc825472e9647d56fdeeee270b36770d82fb"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-land-xhdpi/splash.png",
+    "bytes": 9059,
+    "sha256": "fe873690e5974abbc24553d22bf684cd59e09b0830b63c47c9a7a0b40f2b7b0b",
+    "git_blob": "c0510b75799e6d0106293f22f032bab3b2255032"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-land-xxhdpi/splash.png",
+    "bytes": 13089,
+    "sha256": "86a4289d568b75a2614f33e100224c837027def3119b901579240ecde2f88f7a",
+    "git_blob": "cc418b885f08eb666c1eee3ef1efd11e98a5d8a2"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-land-xxxhdpi/splash.png",
+    "bytes": 18415,
+    "sha256": "0e3617eb35ac1d3a9046d5aecefc9c01d3a9689d419e96c5abffe248fbdf47a0",
+    "git_blob": "2c4b9fe579925b7fdef1d0455503a24074d2648a"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-night/splash.png",
+    "bytes": 3197,
+    "sha256": "17926bb4665b379c02090a53830908b383ca59167d6ca0cb1681762c50fef521",
+    "git_blob": "5b9e6d0cf147883bcd64425db76cebcd70531876"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-port-hdpi/splash.png",
+    "bytes": 4525,
+    "sha256": "2097716757aef2f8c9ca967edea05cc0ed6be64544908b3d5279cbcfa9dcb02a",
+    "git_blob": "887ee1d09f6ae31dc212d8443c59477ba6f4faf4"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-port-ldpi/splash.png",
+    "bytes": 1697,
+    "sha256": "7b5b0029e30ac9a3e068d7d685401acca7d9d14895a6b39b8194597fc174c6e8",
+    "git_blob": "0566014bfb58331186b17ea889e74fa94b74d147"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-port-mdpi/splash.png",
+    "bytes": 2582,
+    "sha256": "ce9577492bcc8f6979d23739e85a1df5828bc7902a6c22e28a93d6c7a9acbe76",
+    "git_blob": "59a2b59630857812843f04e27dba69abd32387b7"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-port-night-hdpi/splash.png",
+    "bytes": 11690,
+    "sha256": "2a78e1fc0c25c4ba5ec6cd13682bc156c349de2ef0be086bb03abb61f3750f79",
+    "git_blob": "126700c5e1796927e3c34bda44aa3a45e70cc991"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-port-night-ldpi/splash.png",
+    "bytes": 3123,
+    "sha256": "ac0e6d9d717a86beb4230ed4d1794b03f532219a20950624b61e43c5e9ea24c4",
+    "git_blob": "4d698cdd556f08d5f9702179e529df1cb1ac1114"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-port-night-mdpi/splash.png",
+    "bytes": 5131,
+    "sha256": "83b386c3a7c772edffac2c86875603c8c2ce9966ffa8c4ecfeee15ac134de131",
+    "git_blob": "4c46ecf7a8572ea1d9e2fd969088c94b9804f1a7"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-port-night-xhdpi/splash.png",
+    "bytes": 25310,
+    "sha256": "9819c01d0064e7fecfd141ef3dd574854da21a6951dfabadb4b825819d77e01d",
+    "git_blob": "df38aff8fd7ffc825872267bba523c97fe5c1026"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-port-night-xxhdpi/splash.png",
+    "bytes": 37292,
+    "sha256": "2899afa73eea6f1cc3cdb569b43d183d6eb62633d74f1b70aaf8d9ebd53b7504",
+    "git_blob": "97a7e277841f59166b51b94ed3a5487f037d0954"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-port-night-xxxhdpi/splash.png",
+    "bytes": 57625,
+    "sha256": "63c830631d77899a88338034d8ded02d68fa8645a3959e1ec325fb256fae24a8",
+    "git_blob": "2012110d9e5a60c672f584e18d0439cf58be2223"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-port-xhdpi/splash.png",
+    "bytes": 8506,
+    "sha256": "d64e38ea53c42aad89fc5e7c620bfa02fb405a2f75ebe9e3ba8c97f66648d0cc",
+    "git_blob": "ecdd16199b8bf95e7f541fc9971785dbed52d665"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-port-xxhdpi/splash.png",
+    "bytes": 12215,
+    "sha256": "a3957782f80344e69f5835d2a4a4b69cf6f57e930e42e77b6f00958afcb856eb",
+    "git_blob": "a26e1c5a85f469fbb221b7396285d5a60843c00d"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-port-xxxhdpi/splash.png",
+    "bytes": 17751,
+    "sha256": "7f6eafab72ae6843134e74a6213789fd073caf12968eb7aeac7f422c6fb20eec",
+    "git_blob": "0c2df30c97eec30acecfc322e2e249d2e700fecb"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml",
+    "bytes": 1914,
+    "sha256": "fe3c9a470d9dfc34dfefa1cbbaf67f16174cdd3d242a1d4f6bd09483ea38c29b",
+    "git_blob": "ddb26ad7769cd5783d72e95104838599864d58af"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/layout/activity_main.xml",
+    "bytes": 547,
+    "sha256": "61e5b7029215a836abe562b61d037bd5e59e68e28cbaab42b9f503ba5bf3ca57",
+    "git_blob": "f375693fd5666da4fa6bc347cd1128f9ef35092d"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+    "bytes": 388,
+    "sha256": "9df7f1f1fb647e45268dcc3d481a845b7b32e064f05c7ba78e76c3f0125a7c76",
+    "git_blob": "b2bcba3320814c59d83beb85af6dd2022e48a235"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+    "bytes": 388,
+    "sha256": "9df7f1f1fb647e45268dcc3d481a845b7b32e064f05c7ba78e76c3f0125a7c76",
+    "git_blob": "b2bcba3320814c59d83beb85af6dd2022e48a235"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-hdpi/ic_launcher_background.png",
+    "bytes": 531,
+    "sha256": "7189839950fc679f54b3d42f1c7f9b26b1dcf022c8b4b1192963562f06366717",
+    "git_blob": "0feb4c7dd939a2208d91306dfc8997f872f50b03"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png",
+    "bytes": 2577,
+    "sha256": "8b9da86f7c00d587023ebf0651f09bb71db26772887f4152125cf84f0f9d282d",
+    "git_blob": "29c4f234d7cafd6feea09b569bd6c2bcaeb09193"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+    "bytes": 1584,
+    "sha256": "fa4eca550f2a9b57e94bca76eec45db040626dd9cc4137a7807ce6696af2d532",
+    "git_blob": "21bb058e6fb71cd5f28ac2a129ef92b92ee8d38b"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "bytes": 1503,
+    "sha256": "95e8cc3e39fea3294dfeb79a0b5473f298db4d2727b1f2e3105b069fb9cf4856",
+    "git_blob": "3b373f576ef76fea56a1bb3bbe9716f759019fd7"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-ldpi/ic_launcher_background.png",
+    "bytes": 277,
+    "sha256": "aa92fd5bf862df0dc0abde01ce2696fa0a948cf3a18fc4de2602a0969ae6bc12",
+    "git_blob": "b999324d43b16dccce3a7efa2519b22d0fd25be1"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-ldpi/ic_launcher_foreground.png",
+    "bytes": 1205,
+    "sha256": "850d935054299fdfc284bba5aae087ad39b5a87edbeddea51eb7b2891ff30acb",
+    "git_blob": "984e17fb301d75035ef780692e48bfaa459435ea"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-ldpi/ic_launcher_round.png",
+    "bytes": 784,
+    "sha256": "c832c4dd2b87b3e7eb3dbd39632afbc63eaa36d0abfb2f42565cdeb9720c2dc1",
+    "git_blob": "7f5f2b7117c304a2cac86d87be2a57843fcf1aac"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-ldpi/ic_launcher.png",
+    "bytes": 630,
+    "sha256": "57597f8188387096b39238aa2715c71d3aee4a4593d553cf05341b01ffdaa034",
+    "git_blob": "b654404b1af3fb30e02266d66d58744e8d984dfb"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-mdpi/ic_launcher_background.png",
+    "bytes": 350,
+    "sha256": "6acd52bdd43b528a024d6d46d5a50dba12b466c499a2a95fa1edf66af10b4918",
+    "git_blob": "5b990d7b51b5db38ca9be2d2eb513195db1759bf"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
+    "bytes": 1619,
+    "sha256": "e8167a2f8f6a01d70c08ad12bcd3bd92b49e051fd2a069c44e979f6337bf6077",
+    "git_blob": "1f44acd691f564206fc9dd0b1cbc587956090322"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+    "bytes": 1058,
+    "sha256": "dde6e59e891764628d992c2b99afb22b6a1102aa1021feb1020cb1e3f4c04370",
+    "git_blob": "e009f10e8b1b129a582dd3cfaf5c6d197ebe8e22"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "bytes": 926,
+    "sha256": "7f5c1dbc410d65a9dcf61f45f1d91485e4f4677c6fb81a1329a7e38d45abd3b8",
+    "git_blob": "e1ca019051f95f18ffe24f6930d56e5687782636"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png",
+    "bytes": 697,
+    "sha256": "35b716f97156f38260ea4c99d6f9dad67f0fb742f05f821fe8a790f5c8eec082",
+    "git_blob": "adf064785b2e778e5e9224cb7431e91c147ddb09"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png",
+    "bytes": 3630,
+    "sha256": "1920d010135cd54df12c776322842e485eb9dbba386316562d51b14769910412",
+    "git_blob": "2140de4fd5c2b3c904627ccada8a55338f10cceb"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+    "bytes": 2031,
+    "sha256": "07387e4f7b515c0176e6fcb93d0368a3367b8984c1c1a3ea7d98a92108c578e8",
+    "git_blob": "52787b26306488cbd67dcee3ed62ad44b5a6c541"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "bytes": 2192,
+    "sha256": "9158f654aeb445cf96843ccf0b6d21e6c3d167e308a44808a029d50101ac4bc3",
+    "git_blob": "9fe39c2b8e13a3f64e89a6aa3e55dc729307b7c7"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png",
+    "bytes": 1040,
+    "sha256": "779eab0767b85aa6f205ba4c0aba69fba43c9cd08b5052c42bcb53ef3832a123",
+    "git_blob": "5da73954fe1169845e34a67baa30382f782d3eea"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png",
+    "bytes": 6072,
+    "sha256": "f2db2cc6c778954aa47927011e4c03034b0140e101c4c606ca9d6b1973812709",
+    "git_blob": "84e496141d0677d6d1ae93655b1f74e8b9a79bbe"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+    "bytes": 3196,
+    "sha256": "1281471b79f9c7a02f1d738cd3efe257ff21aae1281bb96b6186a14816cef04d",
+    "git_blob": "d27f25b58957456fe78e5a42a94818a453da35a5"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "bytes": 3525,
+    "sha256": "7c9a00a7e941ee0a839102d824252975d316138d6371be10933ea14ad1ece8ad",
+    "git_blob": "69d40d79e4b0feb4cd87165c9a01344cdd6c9cc9"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png",
+    "bytes": 1726,
+    "sha256": "ac90b7ceeacb59bc41e6ad470596a0192a819af38cdd03084ec9a293efeb870a",
+    "git_blob": "62d0494ea43a110c872e4897e9908283ab281d49"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+    "bytes": 8439,
+    "sha256": "69b591ed6d8da3baface9b00e1d6bc98a9b26f3f562eaa122e81bd86af8071e0",
+    "git_blob": "01e073184ac4de016ddc50ec14f661485d19576e"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+    "bytes": 4327,
+    "sha256": "f2a62cd85dabf00fca1dbfe82b327d16a35db2f63333600b335b1e79febd2726",
+    "git_blob": "ba36f595422f627ffdfe6162e463371087312f1c"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "bytes": 5119,
+    "sha256": "29af214453c53923bc882fffcd4a714e1218c186a7adefe55aeb153b5189fdc0",
+    "git_blob": "ba7c8a76dbd0b66c4a56a6ec092c80280313f018"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/values/ic_launcher_background.xml",
+    "bytes": 123,
+    "sha256": "1cab1aa686b81505433a474a3408f56d39a3dff8f1ff66c16d866a8fa4b806be",
+    "git_blob": "cfa9be08f986e1701bfc56b8014ebae429ff6954"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/values/strings.xml",
+    "bytes": 303,
+    "sha256": "1390acb39e277ce6099b46ac1f7215fd0cf8d602c0888ee106cf3d5e942fdabc",
+    "git_blob": "f332a07be7a4724a8147cd6a54ec85e44cb6e4fc"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/values/styles.xml",
+    "bytes": 844,
+    "sha256": "8207f1e42dd22d6d2fddb0bdad3ee9e7db9535a0368aae0b4daadead05112655",
+    "git_blob": "6e28da9e5f973f1df893b7f385d2c5426208f4e2"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/xml/config.xml",
+    "bytes": 185,
+    "sha256": "e9dcda493e663c5c4db9e3cb3bd968477a6e90aa8840bcbba40d72ed54b767ce",
+    "git_blob": "1b1b0e0dcacc0bfb732885c069993b3e2ddbafba"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/app/src/main/res/xml/file_paths.xml",
+    "bytes": 217,
+    "sha256": "a290266da65e30675e410cd8e1c17cde04de40170c9c3b900504e7a24ca79626",
+    "git_blob": "6c80390ccf720b45c6aa9555aae5e069bb24abd8"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/capacitor-cordova-android-plugins/build.gradle",
+    "bytes": 1668,
+    "sha256": "28e3fa281f4d1e388bf98abc7f5bb31e672516e385c165c719d201ed54b8236e",
+    "git_blob": "b2e25ddd6e7b2b67fa53cdc7d8204ebf2f26a8a0"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/capacitor-cordova-android-plugins/cordova.variables.gradle",
+    "bytes": 312,
+    "sha256": "b13104b34f7738abceec358ae8226ba5e64855e97babde54a115880e9b9bd47b",
+    "git_blob": "b806d8ad6586478426457d95084f24fdd004b6b2"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml",
+    "bytes": 210,
+    "sha256": "2e3e383475f0e6cb76f0a7b46017a546663fba8e5bd1ef2a537412afac2ee9b5",
+    "git_blob": "cb9c8aa354a4035d3430a421f53907fe05927006"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/capacitor-cordova-android-plugins/src/main/java/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "git_blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/capacitor-cordova-android-plugins/src/main/res/.gitkeep",
+    "bytes": 1,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "git_blob": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/gradle/wrapper/gradle-wrapper.jar",
+    "bytes": 43764,
+    "sha256": "7d3a4ac4de1c32b59bc6a4eb8ecb8e612ccd0cf1ae1e99f66902da64df296172",
+    "git_blob": "1b33c55baabb587c669f562ae36f953de2481846"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/android/gradle/wrapper/gradle-wrapper.properties",
+    "bytes": 260,
+    "sha256": "1adf3caeedad6ae5b3a0a410e1dd94ca552d6e6f02ee68cbaf849cd5e7877d17",
+    "git_blob": "7912cdbdd457034332f74f910ce94c97fbd76990"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/assets/logo.svg",
+    "bytes": 1580,
+    "sha256": "f827fc75fcd3493bd974aed78357e73f075e57c9dc02385325879f2f1e21e8de",
+    "git_blob": "694f181a3bc39438cb0a4a1addd76158e55ffa00"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/.gitignore",
+    "bytes": 219,
+    "sha256": "617a0925d785475f90df5c1bbefa1d11251827dbc85b677f150f6825203b91b7",
+    "git_blob": "d21b56b5709a959eee85603a24a9be81c714def4"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/Podfile",
+    "bytes": 995,
+    "sha256": "812ae757268e7ad0c8b3b7c4bf4f5ee9c1d8a76f61ff175998072cb3fa0d9396",
+    "git_blob": "491dd099be6a51ff36901bc213851b300721f4a0"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/App.entitlements",
+    "bytes": 364,
+    "sha256": "d804c34db014cd32a151261d528f26f01685615fe5f82c1c9937ec9d1e2fa45e",
+    "git_blob": "cae0691d306a1667cbbe2f6e60225606387ffa71"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/AppDelegate.swift",
+    "bytes": 3080,
+    "sha256": "a126d7d4d5b16d0523eb78f9bbb9a84c57dc8c73460e04fd32fbd39423f2e39a",
+    "git_blob": "6201d1600c0f7b1e1aab2e179215539157f368c9"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Info.plist",
+    "bytes": 1780,
+    "sha256": "d5aee8a81bb5246d35ee5b6c7aa24fec7a3415e34324baf978f4acb899c447ca",
+    "git_blob": "f9928f9baffa687709b7f0bb723a620c7cd315f1"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/100.png",
+    "bytes": 2164,
+    "sha256": "07a06231213572f88e9b2bf143c7f7469b99a69046f2a8f7ff5fb253bbf71414",
+    "git_blob": "d270ca9fe4defa3dd069872b3b68ae3f4c8f4d27"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/102.png",
+    "bytes": 2156,
+    "sha256": "3a732afe0f1030db70b4955b85c5d9296fb09510da37ac33ff689784fcfa187d",
+    "git_blob": "061259a5af2a5cecc96fdb7ae627ce1075fd4d15"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/1024.png",
+    "bytes": 40023,
+    "sha256": "93c377c8af04f455f1237c454d64f5d9e153c25dfe3d66d3e9e924beec0edb88",
+    "git_blob": "2087f06148251afa8b6a9cdce4c816392d3c7de4"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/108.png",
+    "bytes": 2267,
+    "sha256": "c4fbbbb5e88391780531061173bf7fea8c066612d42dac12e920f5ba8e531b7e",
+    "git_blob": "efeaab8c356c15d26db0a537537e29935870fcfc"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/114.png",
+    "bytes": 2411,
+    "sha256": "bc3757906ee6e137f3bcbd01de4aec4b70599bd3f26389097d2a1eb430a2b3d7",
+    "git_blob": "526fb9cecaeca87f1ed6ae185a2b7be6df231cfd"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/120.png",
+    "bytes": 2510,
+    "sha256": "e18f68b60919e3351f298b81e296d4e71a945b5edd0ca5fd5e418048f632baad",
+    "git_blob": "468aba60ad22faf250aabe0edcd2324f079e8ade"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/128.png",
+    "bytes": 2758,
+    "sha256": "fbbb9d48842ee20bf0b10c38b064e2ab0106d5a62565ff5b1f38ee7ad0d37927",
+    "git_blob": "6957431a694c182f928e6f94317d08ec4d335a1e"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/144.png",
+    "bytes": 3187,
+    "sha256": "356c399473389ae39fd5220ca6b9e250ffce20c71885a687b5292cd7f479b5d5",
+    "git_blob": "239a573949e9de5b4f356f7b0e7e2eabc45cf55f"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/152.png",
+    "bytes": 3408,
+    "sha256": "a92c02c4483b1cafa05e03f7c3536d84a861cc7db78b14fd61bd808713c1285b",
+    "git_blob": "16483d751dee42153282cf1a4c564fd8c87ac2bd"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/16.png",
+    "bytes": 491,
+    "sha256": "25b17973c4f0864cd81387736ed65864d1453a9c8d7a359eead7e6c55286ac94",
+    "git_blob": "597f26d214a3cc0411f91d69c4e09edb1742d4b4"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/167.png",
+    "bytes": 3736,
+    "sha256": "eec804f733e0e4474f958eed3cfe253d99486e38e523ea2788ec7401b29852a9",
+    "git_blob": "1acf020e1537634a675669efa14ed33d3ce633ac"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/172.png",
+    "bytes": 3856,
+    "sha256": "07abdf00ed13b7db03d752eb5a9f2473fed5b66cff6e047f22040c168d426d31",
+    "git_blob": "da8f3b5009e4e30c992884897bedb1c6d841ae0b"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/180.png",
+    "bytes": 4075,
+    "sha256": "717ba10ae02a7481fde73a9cfba515ba4eb06d486aaaa234183d49a2f7373932",
+    "git_blob": "1f5a3cdf60de6aacf4eb5624a69cf01f7b54efe0"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/196.png",
+    "bytes": 4578,
+    "sha256": "4a456935ea61a5407ecf097fdae0e5bafe6e259cd31e672610634f5bfad7a8ad",
+    "git_blob": "5a044c56e72a47cf9c418a51d5ae345a5e6cd7a8"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/20.png",
+    "bytes": 560,
+    "sha256": "98e92ca0c2729f7d5314034d1cd94038c07cde7e6a2da197461fd1db633c012c",
+    "git_blob": "ef555bc9b5c2dab85e9cf23fa65fde271b10c2b0"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/216.png",
+    "bytes": 5157,
+    "sha256": "e46d240a26745d69ef6079363bddf85a4bbdca8bbdc90de21cfaab9aa3262195",
+    "git_blob": "196d538ec00ada66b27d070ec2bac17454a40fff"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/234.png",
+    "bytes": 5604,
+    "sha256": "0e0a1855bd0edf205b9adaa30144e3410d2215463517f5da0ea3c8abeeb9241b",
+    "git_blob": "b90734ad1ae170c1d5e62c75549d107f61afedec"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/256.png",
+    "bytes": 6358,
+    "sha256": "be4b4625f4c6630f4716cab8384392b22a027b7abad476f2815d00b31c95f0be",
+    "git_blob": "ebad02dfc1f5dd4242646b85cbf26a226ea0804f"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/258.png",
+    "bytes": 6348,
+    "sha256": "bf34c4bf1df3a0eeda01e842ffec54244af38a7c8567514496c453a103fae740",
+    "git_blob": "0bc0c2156cc1c95b59957ef831a44f62083f171c"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/29.png",
+    "bytes": 745,
+    "sha256": "a7293434bd3b05793de310f2768598b7808e1c3c94485ffce75c82534515e401",
+    "git_blob": "8d6aa2691e45d44c2ba85000b150ea8c7107efa9"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/32.png",
+    "bytes": 791,
+    "sha256": "dfe76d4a78a1afa5d13aa2193a2bfcfb9678c60e5357e2ff66f7bce87d1548d6",
+    "git_blob": "d23cf1472e413efeed1983e5390dba02e445ab7f"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/40.png",
+    "bytes": 973,
+    "sha256": "8b73d8bd3f3df2eac82bb24a301ca87308d9d7e32ca9c0b610bfc4e8968a54e3",
+    "git_blob": "1ec9da1a708ee854232efe160b77b22e2e207c8d"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/48.png",
+    "bytes": 1098,
+    "sha256": "ffccd57791f452f1106701a2404af10fcbeeff2b61bb080f758dd6e75bb4e5c8",
+    "git_blob": "26160e9e3cde8581be9cfaf502f1232bc64fb443"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/50.png",
+    "bytes": 1103,
+    "sha256": "20e6f70947ce1ae115980d4613e39d48e585028d58b6fc6425376d81d2662328",
+    "git_blob": "594f6f2fc2b0d6eac27e2291faef721483482d66"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/512.png",
+    "bytes": 15391,
+    "sha256": "8351f5e2c1b02c5883b41196d8f7335076ceb2a1711a5a24985720dbfd41b198",
+    "git_blob": "cbb7dac1a053cac728b22108f1aa30de36efb306"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/55.png",
+    "bytes": 1200,
+    "sha256": "6a1000dbd6f585133b40f74fdbf8c02a3eb907495c22271761c367b7ece1b3e6",
+    "git_blob": "5b676c7e79255192979674f8075268cc804774a7"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/57.png",
+    "bytes": 1254,
+    "sha256": "cef7e10ffa108bf0a0a134c18130c881069cc71c58491c5d531e891cc1503f3a",
+    "git_blob": "c3d404f08f8ef152817da23f2fe7ef86a7d0b923"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/58.png",
+    "bytes": 1268,
+    "sha256": "84c9ff6f4de09373880447f5951f6a4ff3e4cddbcf91c3fb98b9a814ee299db4",
+    "git_blob": "cc23845618637c2216ea31eb3818934477f0f853"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/60.png",
+    "bytes": 1281,
+    "sha256": "e8b5567f21a11e4bee5c4b2288465ba82434e5f65f13d97b1caf038afe316e04",
+    "git_blob": "c62f7eb13cbd70f8fc56f444bbc429a77b5e4d92"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/64.png",
+    "bytes": 1461,
+    "sha256": "b4b9a60aa39518195f65e66a77492dc10f84af685992cfd269da15dedfab3bb8",
+    "git_blob": "56ba45c208159415ee2c2bcf8075888699a81d63"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/66.png",
+    "bytes": 1437,
+    "sha256": "20c05344b0d380413e1f0b2990aabb7018e2a7a4382929d99667de820d0e04ff",
+    "git_blob": "e6b4ebf43371b656c3f22a18e86200d69ccd4d8f"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/72.png",
+    "bytes": 1544,
+    "sha256": "d9b34abfbb7101c33aac9bdc5d4d8618f41e4c49417d6f97c2ebd0b7ae6030a5",
+    "git_blob": "3160223ab520837559645499e632497acb33b7cb"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/76.png",
+    "bytes": 1676,
+    "sha256": "998ba00bd251b71a3b10c97b75e8e6927247e9743044170759e7bff7efea719f",
+    "git_blob": "fe280c6d2298b65c21961a55fc422cfa09926fc6"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/80.png",
+    "bytes": 1674,
+    "sha256": "f40a2cc1e915f893d29905c6ba2e7ec2fe43d08cf6cf0c3a8775435bae056d23",
+    "git_blob": "e9c858f822df602cf2e3a1d14189ef4992712d22"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/87.png",
+    "bytes": 1860,
+    "sha256": "5561b46545373ff8d2a5bac3af5135f73aab02df288c7edc294a39e56045c2e3",
+    "git_blob": "20e7a7b2c011aca74ad0c901bb8a4ce5d5f9ef2f"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/88.png",
+    "bytes": 1874,
+    "sha256": "26f6c74b39db9c59e38e8c78f0def9b16bcbf0b18b2b107fe1d652df546179a2",
+    "git_blob": "3d70c43a8ead7879d84e5619cc0198a7de9d059d"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/92.png",
+    "bytes": 1958,
+    "sha256": "91bb64a6eff40d1704eb99dc949f7fca9391dcb5f7a0e33c744ce0c236bca85d",
+    "git_blob": "562d292164bcf38fa9987b338d8e03f5a67b0724"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/Contents.json",
+    "bytes": 7661,
+    "sha256": "b8eddcc01619442bbe71c8a1b035b5aeb93df140e1630eb07954e48b3ace6d7e",
+    "git_blob": "1319290d43c1ccbae7f06f235d078a161cec455a"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Base.lproj/LaunchScreen.storyboard",
+    "bytes": 2026,
+    "sha256": "cced1b7ad3ee8bf2b775bd014e2172d050cadf4ab0b186addede4c96a01cc05d",
+    "git_blob": "1f26c8a45cadf9c393051083be6bf3d00cdee08e"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App/Base.lproj/Main.storyboard",
+    "bytes": 1038,
+    "sha256": "1beac972dcbf6e9949d16a6afe5c81c64b8f59cde83457eb94d984b5ceafe12c",
+    "git_blob": "c86b3c4bb6628ddccc3da224cb72dd1dbe385b96"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App.xcodeproj/project.pbxproj",
+    "bytes": 18478,
+    "sha256": "ce0b5b28c64a53533006c4fddf02fa1656c1fb5243a49edfac53fa3bf3630ff2",
+    "git_blob": "bf52c0fb82b25ab14f26143cea97cc734bb78859"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App.xcworkspace/contents.xcworkspacedata",
+    "bytes": 231,
+    "sha256": "b44b4485e00d264d43d2248a33f8db160c26f1d9e98ae3c4da838418ef130143",
+    "git_blob": "05fc9dd16da9ea14f4a4985a3cb8c400bc7df863"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/capacitor/ios/App/App.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+    "bytes": 246,
+    "sha256": "d557c2c32fc6258ec28981fa45dc847b76c9968beb90a2e26d13ef9c4ea45c30",
+    "git_blob": "fc6bf8074854f8fd9fea8d9cc80d5ca1b8d932db"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/tauri-windows/.gitignore",
+    "bytes": 296,
+    "sha256": "9fabf4be85ffd6605262755e5ccae85a14729b4ba2e928029e4a2043f79574c0",
+    "git_blob": "05f96d12b5b3ea5389d24c65f4f3474f32ee6ade"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/tauri-windows/package-lock.json",
+    "bytes": 7419,
+    "sha256": "a190d5ff76a4006e42ff95f61d795f0b6ea934f93b0da8cfa909bd5ca9da81b8",
+    "git_blob": "17c28fcfb87071f21f25b2730e96e5e64390f3a2"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/tauri-windows/package.json",
+    "bytes": 285,
+    "sha256": "63110d5c4eacc52962a790554b9a5f371ba5e0c8eed0b3ae804e70e16176b4ec",
+    "git_blob": "26e01ca56734f033d00b31bc9d9f11356872dce9"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/tauri-windows/src-tauri/.gitignore",
+    "bytes": 173,
+    "sha256": "e1b11c0407131ad35a1f11d8ec2545c53de147a76f05e264e5b500a14b977332",
+    "git_blob": "d8769d02d149255200f1f89102bb0fe3b9893094"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/tauri-windows/src-tauri/build.rs",
+    "bytes": 42,
+    "sha256": "4ae2333b11623039cc115e29b696e7ff5cdfcd5b7d628280ddf48fa733e6418d",
+    "git_blob": "2ba80a8bff12786f28420a30260b9949355066b4"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/tauri-windows/src-tauri/Cargo.lock",
+    "bytes": 139338,
+    "sha256": "b756adb7fc902ce26ea3259efa81b9212ad18456ee8b77cd49186588a5150039",
+    "git_blob": "c13034e1c3d3efbeb53dbdd13e88cc3a8ec6a9bf"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/tauri-windows/src-tauri/Cargo.toml",
+    "bytes": 804,
+    "sha256": "d7ac1e38aa6f75e283c54c8c6313489d4c288b6bcd42874b52396a40e3ad1a74",
+    "git_blob": "0131ee3ae1f19f75c6d89310f53c158f42cd752f"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/tauri-windows/src-tauri/tauri.conf.json",
+    "bytes": 456,
+    "sha256": "d956304f18636407a5c088a02d8896eb1c5a5e98fd9ddb77a55726ae53125591",
+    "git_blob": "a809376271229b89a7d6eaa72ae57b900a39138b"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/tauri-windows/src-tauri/capabilities/default.json",
+    "bytes": 230,
+    "sha256": "f4e450983bbc94f2c2b0aa05513923a00af47d2b62d272177b48315d46719807",
+    "git_blob": "2ff144e299a094c873f7e2d10f26912f00531088"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/tauri-windows/src-tauri/icons/icon.ico",
+    "bytes": 12354,
+    "sha256": "b76755dee1afba31a13b0d2954c83ee3ff1599123f1200483301da95e39aca9b",
+    "git_blob": "60396cca033bf8e1963da6fc9e1b71ee953b6cc8"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/tauri-windows/src-tauri/src/lib.rs",
+    "bytes": 317,
+    "sha256": "a0759d209926da6f20f584e679b9e8037a9cdee59f56a3a8de1cae752d858a83",
+    "git_blob": "96a7f09cebf9a33df594785a94c78c749b254276"
+  },
+  {
+    "path": "archive/NIIM-Printer/standalone-apps/tauri-windows/src-tauri/src/main.rs",
+    "bytes": 190,
+    "sha256": "0e02d9ef89c65a80990aa4bfece629e24ffd108e3bf7cd8694a2af3b23e4a7cd",
+    "git_blob": "f466c72c61f59a153af499b87cb39dc7f3aaf0d8"
+  },
+  {
+    "path": "public/favicon-512.png",
+    "bytes": 9868,
+    "sha256": "4a5ff01accee898a7a6d18f8fb160e009f659cda7f97b9193e90660ccb758630",
+    "git_blob": "0faee29af3cbf19684f69c8003034da5bca1ab99"
+  },
+  {
+    "path": "public/favicon.ico",
+    "bytes": 16958,
+    "sha256": "abb1f4ca88f0aec47331fd0edad899a5b99c88d211219b0d674098bbdd201563",
+    "git_blob": "8b09f9cb0b86ffb0d10b3d74fe223440e5a2ea96"
+  },
+  {
+    "path": "public/favicon.svg",
+    "bytes": 1580,
+    "sha256": "f827fc75fcd3493bd974aed78357e73f075e57c9dc02385325879f2f1e21e8de",
+    "git_blob": "694f181a3bc39438cb0a4a1addd76158e55ffa00"
+  },
+  {
+    "path": "public/niimblue.webmanifest",
+    "bytes": 456,
+    "sha256": "a046e3f261aafe2e76545afc47903785d2d5ad263e7bdbd774e644b6a9fee23c",
+    "git_blob": "92e76757e6e91538c425d2809ded644b3451adab"
+  },
+  {
+    "path": "public/og-image.svg",
+    "bytes": 3459,
+    "sha256": "f4ee14f03531dce33272f22cac2e867fbe7f2ce34f93cd4f6824cfdde90935a0",
+    "git_blob": "1ce3342af292c3bcf4be9f185f71530a6df509b7"
+  },
+  {
+    "path": "src/App.svelte",
+    "bytes": 103,
+    "sha256": "315e4d00d3fb53ce8fe7d670de6eeac0100c46c7ce6607ae3c92141a6df5e2b7",
+    "git_blob": "3c30082009137b8cc1d28baa4126a5ac2fb72b45"
+  },
+  {
+    "path": "src/defaults.ts",
+    "bytes": 2765,
+    "sha256": "c3fdaf0eed627e89b0a8d00b3bbc7006d07fc18a5413c58364b1188134d549d9",
+    "git_blob": "e50696203604c3f73e6e1a370725afe9281cca76"
+  },
+  {
+    "path": "src/index.ts",
+    "bytes": 408,
+    "sha256": "2c9e73a226eeeccbde6cb0fe61555e96d50b31cb904a916c2ecf5922ecf3159a",
+    "git_blob": "c725fc8b88e090292aa31dde3b456b009bc37aa3"
+  },
+  {
+    "path": "src/stores.ts",
+    "bytes": 7045,
+    "sha256": "04d21a0316223a568145d26bc7191e2552a55132a4c863bf1b3d210bb7e2f1f9",
+    "git_blob": "aa7b784a936a106a6e3ff3d54a1312560aa03ec3"
+  },
+  {
+    "path": "src/types.ts",
+    "bytes": 5653,
+    "sha256": "70a238c2e5e138e5fc57c021e3cf0036e9b768774c8001781a82561f3f28f5b7",
+    "git_blob": "a40ad007e9bca2dab8399acdacb68078cfbd3e38"
+  },
+  {
+    "path": "src/vite-env.d.ts",
+    "bytes": 469,
+    "sha256": "00fe4bd2d961c06299f01c6886ac6e21a733efba060055c098e9dddd204cf02f",
+    "git_blob": "086eeec112a7172831622b846c7d2fd5a12a6b13"
+  },
+  {
+    "path": "src/components/DebugStuff.svelte",
+    "bytes": 1320,
+    "sha256": "c59894efa2571bc1399f1763abe98dadcc53f29f420dadd67271bbf1e141a3cd",
+    "git_blob": "e69fca39200e904240a6125f6e8dc332d6fc145e"
+  },
+  {
+    "path": "src/components/LabelDesigner.svelte",
+    "bytes": 44138,
+    "sha256": "661928e4372cc5571307a58d98a4599bdc7eb797e65da769a5d87f712b3ee96d",
+    "git_blob": "165bfe3e17465b64b96823beff3cff374c715fe3"
+  },
+  {
+    "path": "src/components/MainPage.svelte",
+    "bytes": 5686,
+    "sha256": "66a4e81fbbe06d1fc0af8d66ff9f9141730bb8da435247e00b93b6eb418ad723",
+    "git_blob": "b3454636ec4a8887ee08318777995035c85b6cd7"
+  },
+  {
+    "path": "src/components/NamedDevicePicker.svelte",
+    "bytes": 3135,
+    "sha256": "a564d21a093fd97f2747bc9b917471bd7cbb86cdd4dee095c9204497db329b82",
+    "git_blob": "af7f002919ffbf5100109d1fb243e46d8ad8435e"
+  },
+  {
+    "path": "src/components/PrinterConnector.svelte",
+    "bytes": 12755,
+    "sha256": "32f313a76ed1f46e45fe0be62113bdec320f49b4afc6aa69934f97bdc2044cbe",
+    "git_blob": "8d7af47f6dca40416e9a9cab5fcd9c88da41cbba"
+  },
+  {
+    "path": "src/components/PrintPreview.svelte",
+    "bytes": 23787,
+    "sha256": "03f15e4073b1c8e705b7f8984e7e7380008d9efc7cac46b0b1748e7aefb895c6",
+    "git_blob": "d1e8fefc9e88c141a0c71e30da3b849b16247e33"
+  },
+  {
+    "path": "src/components/assets/mirror-copy.svg",
+    "bytes": 3157,
+    "sha256": "b6e9d58000d205f90e9c6988b47bbaa2073d7f77790af637161e483412f95499",
+    "git_blob": "b29594f2898dfb6b8bc6939ea222eee307c27273"
+  },
+  {
+    "path": "src/components/assets/mirror-flip.svg",
+    "bytes": 3158,
+    "sha256": "302d559512f4334101b0ebd4c942419a6f1b0c04c5e13b4c5bd1454c0f911f7c",
+    "git_blob": "7bb23816e65cd5cd2a53fc9c9f7595a692b6bccb"
+  },
+  {
+    "path": "src/components/assets/mirror-none.svg",
+    "bytes": 1933,
+    "sha256": "50368ce26bf798898853f74a927be793e6e82ce3d8fb1fca01c53dcc113afb35",
+    "git_blob": "df3845da20fcb71358ef280de846f8ca91e48e42"
+  },
+  {
+    "path": "src/components/assets/print-dir.svg",
+    "bytes": 369,
+    "sha256": "4b26b3c1bf67681ca65fef9e2405911ca1f03ed1494b21438a9398561d171c43",
+    "git_blob": "9f5b54959a6ac7eb1c26d5df0d3b341d71ced1f0"
+  },
+  {
+    "path": "src/components/assets/shape-circle.svg",
+    "bytes": 282,
+    "sha256": "9dca617431a2b210dfa0546fd2151de22c520601a89c2cae9e60310709090378",
+    "git_blob": "029122d2f77b193a008cb374cd65d74fd8c925a9"
+  },
+  {
+    "path": "src/components/assets/shape-rect.svg",
+    "bytes": 281,
+    "sha256": "37a1fa6887aa891891021437b1fab9c1f6138f6cd764285d726c9feff6788cce",
+    "git_blob": "faf3c2bd85104b22a286e90af73fcd3b44750a31"
+  },
+  {
+    "path": "src/components/assets/shape-rrect.svg",
+    "bytes": 286,
+    "sha256": "3102e0b2f186bbb36467c574e55b36f4917e24c2c2dbb026b9957a52ef68e34e",
+    "git_blob": "cff3346e0dde1f2594c103ea8e35330c07fe199a"
+  },
+  {
+    "path": "src/components/assets/split-vertical.svg",
+    "bytes": 362,
+    "sha256": "b5bdea3c2ac02babb74a1b5fa2d65d90dcbc6986b34d4e863330c38ca5605496",
+    "git_blob": "e82d9e83f0d7c37c10656b8fc95b52146b25dc98"
+  },
+  {
+    "path": "src/components/assets/tail-pos.svg",
+    "bytes": 371,
+    "sha256": "101ef46855b5d99c0698ed23b4b6196b9598cc9c92d1c14343bbd984fab0ab77",
+    "git_blob": "b9b6b352cb72da9c47e4cf3cbc0c0d7ef54e3ab1"
+  },
+  {
+    "path": "src/components/basic/AppModal.svelte",
+    "bytes": 1556,
+    "sha256": "5ce8a4906aeba59b68e1cbc37d656dd9fe313e66b4c7c04efb82e34969cc56e8",
+    "git_blob": "bd8805589bda46cded6bf5da1aba6aea4b1c4602"
+  },
+  {
+    "path": "src/components/basic/BrowserWarning.svelte",
+    "bytes": 825,
+    "sha256": "70fee189a6943cef9b25f1a4d6f6b3beda9e9649040ad41163e3281bf7ba4c85",
+    "git_blob": "6412cdd2564e42da5a8fd2cd3dcbf5aed308b471"
+  },
+  {
+    "path": "src/components/basic/FirmwareUpdater.svelte",
+    "bytes": 2790,
+    "sha256": "4f62128c5d4c890ad86ca338421b7ce7d210c58d9686a548f2e9cc0418d2e956",
+    "git_blob": "1d2108dc295fe807f1d18d3fbadc15c88f571051"
+  },
+  {
+    "path": "src/components/basic/MdIcon.svelte",
+    "bytes": 927,
+    "sha256": "945e03a0115a6ca1b070c64b41d49e59e1769a96e008edd3df4bd5b32cf0b360",
+    "git_blob": "ef475e2b259f2949b7d62a4aee8fedf0347315c0"
+  },
+  {
+    "path": "src/components/basic/ParamLockButton.svelte",
+    "bytes": 576,
+    "sha256": "c41023ee253c545b1905335991f05202330f28be9f3a098822efeb252bca5ca7",
+    "git_blob": "95c24a2e9fc851ea15292db0862277c44209f782"
+  },
+  {
+    "path": "src/components/designer-controls/ArUcoParamsControls.svelte",
+    "bytes": 2058,
+    "sha256": "2048f77ed881ec84cf22c252db8f533c38f848042b425c5f9249785c9a256b4e",
+    "git_blob": "fd1a3a6e68373dcf8209a314fe8496ddf8c621d6"
+  },
+  {
+    "path": "src/components/designer-controls/BarcodeParamsControls.svelte",
+    "bytes": 2434,
+    "sha256": "b46a33dd054c5f17c169ebfb32ee7fdfdcff88fddb272f129f832b7c749d92d9",
+    "git_blob": "cd4f76d8bf9b6cc22216272c06ec0d500d951328"
+  },
+  {
+    "path": "src/components/designer-controls/CsvControl.svelte",
+    "bytes": 2158,
+    "sha256": "b6ab714dc156371e94d55a5174fd9ffef204c45480a82031db97747499924352",
+    "git_blob": "892ca37b911de132cfd8f4570a0595257309c07c"
+  },
+  {
+    "path": "src/components/designer-controls/DpiSelector.svelte",
+    "bytes": 659,
+    "sha256": "fc601fcad905b0de311caf4035692518a5f5e1b2859120afb3e9495e18304977",
+    "git_blob": "e92b65605a6b7b0f5664b9c7eb9087d75842bae0"
+  },
+  {
+    "path": "src/components/designer-controls/FontFamilyPicker.svelte",
+    "bytes": 3979,
+    "sha256": "0948c6b33fc0947ec1e663a1a6365f2ea4ceeb2c6c057ceacb710a6cf75d976f",
+    "git_blob": "81d054b3d4482f96beb3aceabdf2937b9e511bae"
+  },
+  {
+    "path": "src/components/designer-controls/FontsMenu.svelte",
+    "bytes": 3040,
+    "sha256": "279894275ecb795576594a14b56cda36b04c61ea835a758e6f4a627c0d98284c",
+    "git_blob": "a37f4f491eec6f1c247d3e4cd1e364345587bfe2"
+  },
+  {
+    "path": "src/components/designer-controls/GenericObjectParamsControls.svelte",
+    "bytes": 4276,
+    "sha256": "0f2709c6c5e7705fed123122ef3c6514d596b4e1c35b97bcf2ee535d3919259a",
+    "git_blob": "f12e88d3a19b7e1ba3a07fc3e594e06b548fd64e"
+  },
+  {
+    "path": "src/components/designer-controls/IconPicker.svelte",
+    "bytes": 4682,
+    "sha256": "b18eeb6cf75d03f4d78cafb5ba9bba60882e68948f10435cf8e8ce3fb7595c9d",
+    "git_blob": "c668cf9603c20167ec7a820b4d9069f7a0497222"
+  },
+  {
+    "path": "src/components/designer-controls/LabelPresetsBrowser.svelte",
+    "bytes": 3391,
+    "sha256": "46b964d4fbe785a653238c8f3b8e9936880a62f0c583a20d028e63929fff9951",
+    "git_blob": "df4ac455bb94a5ea96bb2df48c9fd5a298c1bc7a"
+  },
+  {
+    "path": "src/components/designer-controls/LabelPropsEditor.svelte",
+    "bytes": 16965,
+    "sha256": "6d7c3135bec2e36f3d2f0e45419035e10870aace476e00cf1b1ad5d538a524d4",
+    "git_blob": "878b45db0774395866ada21f2fb0efd0077f2308"
+  },
+  {
+    "path": "src/components/designer-controls/ObjectPicker.svelte",
+    "bytes": 2567,
+    "sha256": "3c264ce65744561ff03c51b0383568bf86c49363f73c6f9623a0469a7053c3de",
+    "git_blob": "3e37deeacd9a9778c237f3e32d3f183986a7bc2a"
+  },
+  {
+    "path": "src/components/designer-controls/ObjectPositionControls.svelte",
+    "bytes": 5555,
+    "sha256": "94b1e3cae3f3f611bc162f57c37d0df818ca406930f0e642d560d22ac64d7046",
+    "git_blob": "354174bdfcd8c103ad849a7c4a4941a1419c4901"
+  },
+  {
+    "path": "src/components/designer-controls/PdfImportButton.svelte",
+    "bytes": 2133,
+    "sha256": "d7bb17242eb6bd044fd2ec3a798958c0762a60c677ea5d6324c597bcb1fa59f2",
+    "git_blob": "2329e0cce2b571dae46f46936dd0635536309ef5"
+  },
+  {
+    "path": "src/components/designer-controls/QRCodeParamsControls.svelte",
+    "bytes": 2812,
+    "sha256": "064a98a2ddaee5dd11537545667306ead155cab11ec5774042887b73be2e47b4",
+    "git_blob": "90879daa486c0e44a9a3682017332cef5242c9e5"
+  },
+  {
+    "path": "src/components/designer-controls/SavedLabelsBrowser.svelte",
+    "bytes": 4043,
+    "sha256": "3a8bf6d885636854489138088829ff2a71447302945a7d79df845abdd8473c1d",
+    "git_blob": "dba99864bf9b1d98d59ff756659a20059f185de2"
+  },
+  {
+    "path": "src/components/designer-controls/SavedLabelsMenu.svelte",
+    "bytes": 9091,
+    "sha256": "7801c3d24958fa53c089641c66d9fe2a9e99bcb7f459d28552795f85887b374e",
+    "git_blob": "c274b5e1f39d61e8d39a732c95c5bb0ca08c26a7"
+  },
+  {
+    "path": "src/components/designer-controls/TextParamsControls.svelte",
+    "bytes": 11165,
+    "sha256": "94172e99969d83a49a7bd7e74ac3841dd3f5e3c83b10a4d8e69e6f2167de16b7",
+    "git_blob": "9ac87f0f54b8c307950c5cde74d99f7afd32743a"
+  },
+  {
+    "path": "src/components/designer-controls/VariableInsertControl.svelte",
+    "bytes": 1953,
+    "sha256": "b5ad016811113b7af5798d0325a8830fc1497f6190cdef1797da89dc8f5f9fba",
+    "git_blob": "06bb54e8a9c6c6845532e379664d4a4418df7559"
+  },
+  {
+    "path": "src/components/designer-controls/VectorParamsControls.svelte",
+    "bytes": 2692,
+    "sha256": "3ad2804e3daf8978a605d42e153678b5bcb9c4cb83a6fd7d85ab98988b965d91",
+    "git_blob": "b2baf46736accdd0e19a4f0054ce3b2f077fd152"
+  },
+  {
+    "path": "src/components/designer-controls/ZplImportButton.svelte",
+    "bytes": 1878,
+    "sha256": "209ca2856c9b54211baaecce993e87e4914dd1f1edf5a70a88373db2db5210ea",
+    "git_blob": "99cdcd7f5af02fe0dfe387da5cb1aab883dbbc5a"
+  },
+  {
+    "path": "src/fabric-object/aruco.ts",
+    "bytes": 7501,
+    "sha256": "82cc4dcb8c7eb25b014e69ffdc2d88aacd470d10cd8cdcb5b8e1519e404bcec9",
+    "git_blob": "0bc44b134cf0d97e602b2da04dea14b5fb4ed238"
+  },
+  {
+    "path": "src/fabric-object/barcode.ts",
+    "bytes": 7404,
+    "sha256": "641987206d3da1d1d6bb0140eac2870ae020c0f3aac190db5a9a31511fc431ba",
+    "git_blob": "0ffa2b3013e9c0162b5eb31e29b9dc05975a7bbe"
+  },
+  {
+    "path": "src/fabric-object/custom_canvas.ts",
+    "bytes": 16667,
+    "sha256": "5edbecaaa406fa769a1d2eecb4353df13ea5223c476bd8bf047db8047a19f8d8",
+    "git_blob": "c31d65d03c9304f4516d77a4162a53f0f9ec6e0f"
+  },
+  {
+    "path": "src/fabric-object/qrcode.ts",
+    "bytes": 3540,
+    "sha256": "5632e1b82e4c85e07eff57b68d461fd9539a4bf46206213e10498a6e979d8b83",
+    "git_blob": "ceb734a190744beca3af3a6f1ea6e79fd1128e4f"
+  },
+  {
+    "path": "src/fabric-object/textbox-ext.ts",
+    "bytes": 2921,
+    "sha256": "78c3779516dccd3032ff429b7e91cf287c26f19e821095d0eca0e50ab5a5eacd",
+    "git_blob": "aa37d8bba7b98a009803573ecf54d8b2cdf20893"
+  },
+  {
+    "path": "src/locale/index.ts",
+    "bytes": 2372,
+    "sha256": "1a04fe44baa0dd88f1ff16717479b14a3f0cf59016638df0f650a066996f6379",
+    "git_blob": "b5991e5365d52cc7f6ce253fab04a3ce5cba7593"
+  },
+  {
+    "path": "src/locale/dicts/ar.json",
+    "bytes": 9759,
+    "sha256": "70e72ad290a1ac1cbb84a24ddc66e819bf59cd1ecdaf895d0237113a00be42be",
+    "git_blob": "be829080d7e4f6f7ffb1277cd467b19a3f5e6aff"
+  },
+  {
+    "path": "src/locale/dicts/be.json",
+    "bytes": 4,
+    "sha256": "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f",
+    "git_blob": "69a88e3b65423624fe7ea8b0f8beefcc62cc3d5f"
+  },
+  {
+    "path": "src/locale/dicts/bg.json",
+    "bytes": 12795,
+    "sha256": "54c3278cbef8d9c9e1b96627557a0630e52d8d5ec3f5a07b25fbb6f16f7cd96c",
+    "git_blob": "1f5f66173fe352a001b983092d55f8974d4b1b91"
+  },
+  {
+    "path": "src/locale/dicts/cs.json",
+    "bytes": 9764,
+    "sha256": "fd974308290022760d77aaf53b3f8d5f28fa53fb84e3be6248cddfbc4660606f",
+    "git_blob": "d5ffb989b61eacc7e04122f8dd424d27dcea7e66"
+  },
+  {
+    "path": "src/locale/dicts/de.json",
+    "bytes": 10173,
+    "sha256": "5827d307589ba1b86019003085aac8ab4909d0f6cdc009631f07147b37f7dd82",
+    "git_blob": "5e1558967b24518c5c038ec1f9093cea10d90cac"
+  },
+  {
+    "path": "src/locale/dicts/en.json",
+    "bytes": 9666,
+    "sha256": "782be7943411a9d2f3874798fe1fb2a195aeba2dd8a1c0da3a8be2a03205b5f2",
+    "git_blob": "40420b15768f42e0cd93c8dbbbb535e5d377ba4b"
+  },
+  {
+    "path": "src/locale/dicts/es.json",
+    "bytes": 9044,
+    "sha256": "5e5b719f92d58dccab9ff055d844ab9e5689fbd4aa78e435a7cb07bb462c47ed",
+    "git_blob": "cbd4abda8ac0e8e33030dd82d65a6a0fbef682a0"
+  },
+  {
+    "path": "src/locale/dicts/fr.json",
+    "bytes": 8486,
+    "sha256": "9c73788feea35aab039e5a0719904db1044309c9c9c030b70409f64e09c1cd81",
+    "git_blob": "003b2e2e1ad7fbda1f5ea22b198b79326b4adf57"
+  },
+  {
+    "path": "src/locale/dicts/hi.json",
+    "bytes": 14906,
+    "sha256": "ca9d45d4d3f88c2375fbbf16c30aec8dd20bdeed40d457c8800858d4752936e9",
+    "git_blob": "cf29e78f93c596f4aa682b329ca1b660187b4774"
+  },
+  {
+    "path": "src/locale/dicts/hr.json",
+    "bytes": 9064,
+    "sha256": "3de0d51aa840cc67103d80e44fe76de4b29fe4327c9782ae07d99f9cf5de95e0",
+    "git_blob": "890dbb2e343d55914c75a9716e0a42cd8bc3cbdc"
+  },
+  {
+    "path": "src/locale/dicts/hu.json",
+    "bytes": 8516,
+    "sha256": "0f6bed8b85073f11fc259d5f5a15c76cd52697ca7efede38c34ef6c59d5b160e",
+    "git_blob": "f07ff588287c4bcedc0946e8a3799ea1dede4d72"
+  },
+  {
+    "path": "src/locale/dicts/it.json",
+    "bytes": 6227,
+    "sha256": "c8eddbbe68c8106147d0cc426c35f7b01cf65204c8107113518d47c56197f737",
+    "git_blob": "e90ef30831d48a78badd5273466182672bf2071c"
+  },
+  {
+    "path": "src/locale/dicts/ko_KR.json",
+    "bytes": 7919,
+    "sha256": "c936892afed7cc2c8949e7b08816d740413cb083cb5d1e87802023b89cd25e64",
+    "git_blob": "fe13f4d0f7fd65b2948aca3f5416ffd7c4bdcd35"
+  },
+  {
+    "path": "src/locale/dicts/mr.json",
+    "bytes": 14456,
+    "sha256": "34a8f101d86126d895334269e30c86a44ac1e3626a89ee2ffd585a11f95044ee",
+    "git_blob": "9e7a6b6d46e3507ef7793b56efd1087b8586d369"
+  },
+  {
+    "path": "src/locale/dicts/pl.json",
+    "bytes": 10269,
+    "sha256": "719eb6653d73d77ee228b2f9424c34ab5542f161edd8186df8af37485c30b75e",
+    "git_blob": "9dff7a4c3b29a2e7d17659dcbe0c0ba5e093ae8a"
+  },
+  {
+    "path": "src/locale/dicts/pt_BR.json",
+    "bytes": 8794,
+    "sha256": "12020ead6cc54aa1b3443f8e66d9e71558de255dd45dad5bc34a44128eb7db4e",
+    "git_blob": "46cd449c71caab7ebeef3f00800f85279893ee52"
+  },
+  {
+    "path": "src/locale/dicts/ru.json",
+    "bytes": 13017,
+    "sha256": "f49f230d2cb2f3c3af8b8759a803088b229f147b0f5ea458d12adc48b7152f95",
+    "git_blob": "6a09ea1732dd03d0be38e7964860689ad010b72d"
+  },
+  {
+    "path": "src/locale/dicts/sv.json",
+    "bytes": 4605,
+    "sha256": "8d62dc988cfe1a436d3acf031a1876d454e2c00c24bbe8710e73218084412b26",
+    "git_blob": "64f74c640e666be0414cf268fcea5ffe23a7d1e2"
+  },
+  {
+    "path": "src/locale/dicts/th.json",
+    "bytes": 4,
+    "sha256": "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f",
+    "git_blob": "69a88e3b65423624fe7ea8b0f8beefcc62cc3d5f"
+  },
+  {
+    "path": "src/locale/dicts/tr.json",
+    "bytes": 8722,
+    "sha256": "ae254f0841bd250112d907147b8d0529e012228926e49b3c0892448071736585",
+    "git_blob": "df5d095493bd9d5f45a618b40ceacf17252abe56"
+  },
+  {
+    "path": "src/locale/dicts/zh_cn.json",
+    "bytes": 9816,
+    "sha256": "9f932d9d7aff3d010e82e297d988226f0afc00f431bc06f281a34aec323434e2",
+    "git_blob": "049b79b909783c7d954602022483fb0cd096672d"
+  },
+  {
+    "path": "src/locale/dicts/zh_tw.json",
+    "bytes": 7411,
+    "sha256": "e4bc4b145eb87432f3b3df2fb29fb20f56c70adb85419ca6a6dd93a24985169c",
+    "git_blob": "ad8a6a5c94ce0a6b3f7a1173244a96777979e273"
+  },
+  {
+    "path": "src/styles/font.scss",
+    "bytes": 1052,
+    "sha256": "258f62765d563dd042b39ac2e3880fdc614fd1faa47ab06cfda67f25c19d30fd",
+    "git_blob": "3ef76725691421318a65403274c1f8d1fe4f9f0e"
+  },
+  {
+    "path": "src/styles/mdi_icons.ts",
+    "bytes": 56664,
+    "sha256": "b392488468f5163b5ab55dd85b6da6abaa4130258b41b7f2212a6a6ded704cdc",
+    "git_blob": "cc3a10363f56a43a81ed31059480ee00ffcd9f2a"
+  },
+  {
+    "path": "src/styles/style.scss",
+    "bytes": 2868,
+    "sha256": "ab5db9e2379f783babce1bfc012d2b2daf64c90feed20636adce4b24524bc2c7",
+    "git_blob": "d6cd57c5e257210c3ffdfec2fab24b7b29046558"
+  },
+  {
+    "path": "src/utils/barcode.ts",
+    "bytes": 12458,
+    "sha256": "d97b24362ba9a4451606e0677ffcbd58cf9c483aa01e6d0f6b7bc5e3519a7f18",
+    "git_blob": "ab06e957bfa9dd29c343567bd661edb13b11998a"
+  },
+  {
+    "path": "src/utils/browsers.ts",
+    "bytes": 746,
+    "sha256": "a5b16b533e7923b3c0fba14f46804450452b775e70cdeb6c7f1bc974551e6a93",
+    "git_blob": "3ee40e33a604bb97b276b1b74418233d674a988c"
+  },
+  {
+    "path": "src/utils/canvas_preprocess.ts",
+    "bytes": 1460,
+    "sha256": "e71091a0a5facefe535eadac3a5fe4ad9e61ac744f674aaaa462ca89035ac8a0",
+    "git_blob": "df381370a21560eb8b88fafbced7222f0c1a1147"
+  },
+  {
+    "path": "src/utils/canvas_utils.ts",
+    "bytes": 2773,
+    "sha256": "1dec6cbfe564807eaa8c65b16798611dc146d5d5b96ba559455f9b401512b051",
+    "git_blob": "a2a1e7c4a5f1d470ff37a6c72a5bab8d4b2a78c4"
+  },
+  {
+    "path": "src/utils/consumable.ts",
+    "bytes": 3097,
+    "sha256": "911d7b7809917df833b634d6728e44ace7cc3698a6ac9b1fddd137002b41c16c",
+    "git_blob": "cc72996df7d7179f8fa1f1a706de49c3503d2dce"
+  },
+  {
+    "path": "src/utils/dither.ts",
+    "bytes": 3542,
+    "sha256": "c507e6ee54ff67dd41cdc15a7f49c545ba400a02d60ce65574fa72353d1362e3",
+    "git_blob": "5fd6e932ec1db11d3ed9e8d71d4b5f1776b48dac"
+  },
+  {
+    "path": "src/utils/file_utils.ts",
+    "bytes": 14006,
+    "sha256": "a2bf0ede098c58fe3ff889b6e02a17f5f116dc2fc8649f1846eab6b8473220fb",
+    "git_blob": "ed28ffb6d41ae3c380cf37856cc619465094caee"
+  },
+  {
+    "path": "src/utils/i18n.ts",
+    "bytes": 890,
+    "sha256": "a3fe47467cb8da4373cc39bc875b8a58cf008c120bab7ca2dc449427aedd8df6",
+    "git_blob": "d5ecb1220269b9b5a40430a4cd41cec0b7a5f1ef"
+  },
+  {
+    "path": "src/utils/label_designer_object_helper.ts",
+    "bytes": 6116,
+    "sha256": "55dbc3865fad025a7da885e805fc0fc9f5cb5a0076defd9b4ae054fce13027e9",
+    "git_blob": "cc28594f94a29968dc7407e5b0c95819e75e4ee5"
+  },
+  {
+    "path": "src/utils/label_designer_utils.ts",
+    "bytes": 2540,
+    "sha256": "090f735eb978a21ce6061989bd4411637599f28ab8c7ca077a53c22369f683bd",
+    "git_blob": "c662440fa1d0dffb448d0c0b0d69158a56974eb9"
+  },
+  {
+    "path": "src/utils/layout.ts",
+    "bytes": 3611,
+    "sha256": "8773509cc45f8117b4757a6d1835777e50bda6baac002a9a5b9db9807db7fc54",
+    "git_blob": "b8f72fa25883fb0ab7ea75fb2e8750e9085d4f04"
+  },
+  {
+    "path": "src/utils/persistence.ts",
+    "bytes": 8249,
+    "sha256": "9c0eeb01315f677728f1be22a287af1cfe6070d5e36b209c722606b9e1a8fdc8",
+    "git_blob": "4a3a665cf584b570646bb48a445938fbd2774330"
+  },
+  {
+    "path": "src/utils/post_process.ts",
+    "bytes": 4292,
+    "sha256": "04246a329bf3c2f5e1353af0aa0d6fff642707a7469359a8f7679981b66cca38",
+    "git_blob": "984bb1c4b4964c7e6cf3098a7739f028f873a6f8"
+  },
+  {
+    "path": "src/utils/qrcode.ts",
+    "bytes": 1510,
+    "sha256": "cef93e2e8d819a5ce0e0aa5f7b1dcae2df67674c03a7fa6c7177088c58f35577",
+    "git_blob": "49daca2edc166c09f7832c8cf4c6f35c856c6d51"
+  },
+  {
+    "path": "src/utils/toasts.ts",
+    "bytes": 671,
+    "sha256": "080e105ec5b474f3b28912e85d0977b9ee04ba34f0340e86924f47764b440e7f",
+    "git_blob": "78e7d8337acbf1acefaea9a7893f2e94bc36ee20"
+  },
+  {
+    "path": "src/utils/undo_redo.ts",
+    "bytes": 1559,
+    "sha256": "7a28d120f0060b0881fe98196cb6ebf215adfea4517d32144de7765739a6ce53",
+    "git_blob": "375375577eb1c4834edaef313a0264777d95ae79"
+  },
+  {
+    "path": "standalone-apps/capacitor/.gitattributes",
+    "bytes": 85,
+    "sha256": "0f9ace7a7092b7ddba9683f2a8ec95c26bd067a939389934c34e8d71cd31e491",
+    "git_blob": "1586360c3d05953ded8174bb089dab7a6499bdf4"
+  },
+  {
+    "path": "standalone-apps/capacitor/.gitignore",
+    "bytes": 70,
+    "sha256": "c17052dd17c231c4147430f7d13bba7d41ccce05f70ffa210edb85bf8cb08388",
+    "git_blob": "b0999f0fff8161ee0c59da929aad56c1a7d55001"
+  },
+  {
+    "path": "standalone-apps/capacitor/capacitor.config.ts",
+    "bytes": 643,
+    "sha256": "faa59394a1f59005d5300130c33ab91b893406a9b408a66e16a23262e261faec",
+    "git_blob": "84c4726781dd7fcf6986f249fca7906c593d8edd"
+  },
+  {
+    "path": "standalone-apps/capacitor/package-lock.json",
+    "bytes": 47151,
+    "sha256": "6c3a9fb8cb5a528368021db30f6a3a0e82810ebae62119a27e1944bb4562bd21",
+    "git_blob": "44e6bffa421607cb08bbadb7fd2a4a12376c9c13"
+  },
+  {
+    "path": "standalone-apps/capacitor/package.json",
+    "bytes": 930,
+    "sha256": "2337612e5b19faac19941995b6f0d6cff207f1ee96b827616d6b33a58013005c",
+    "git_blob": "d6c3b26365a8fe28a0ca036df0b0b9172fdee223"
+  },
+  {
+    "path": "standalone-apps/capacitor/README.md",
+    "bytes": 1471,
+    "sha256": "81877f110a487bf82bdd6d5b811aa723ef6ba37691f70e2649c4f50b8c6e53c6",
+    "git_blob": "576c69985cedb4af840432b91ca8541bf3e52c0a"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/.gitignore",
+    "bytes": 1925,
+    "sha256": "e1e2389e85e0216d031e1d50fb05f1c1818c1b093bb615bba5e51e5d79a23076",
+    "git_blob": "07c67337a4664610ffc16d683ce99c59a965461f"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/build.gradle",
+    "bytes": 666,
+    "sha256": "735dafec431688f5202b4f4bb40e0ef9a78e3a3dccb98fcdb5b2725195564bfe",
+    "git_blob": "162d943434d41272d9d206d96be0cbc0e20bd509"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/capacitor.settings.gradle",
+    "bytes": 785,
+    "sha256": "5dfc0ede15e4cde2b2566048891825f297795c9af2a15436ae77c6a9d2109363",
+    "git_blob": "91d1664eff3c7a50e88c8e71a4e4b4120c9a9374"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/gradle.properties",
+    "bytes": 1009,
+    "sha256": "a0771d2d479ce151dacc09fab95282de4dea3c94a5f6c71b5cc40c78bbc3025e",
+    "git_blob": "ac73da143ce4fa4f0a491075947ee7029205d7ed"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/gradlew",
+    "bytes": 8984,
+    "sha256": "28d2c82e7f9cca986ee8da10ba939cf9260d682f73936b2b6d2545e35360ce7b",
+    "git_blob": "a4911a5d4cf8024d0733d9d8efb8d4449ffd4e20"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/gradlew.bat",
+    "bytes": 2937,
+    "sha256": "1d297e00bd21de3ace22b4d7f2de1f9dfa858883d66bbf7c1ccbecccec8f4f3b",
+    "git_blob": "5eed7ee8452842305a18a4eb967442683808226a"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/settings.gradle",
+    "bytes": 212,
+    "sha256": "9c6c826e55d5cd4feb1f18f49ce3ab7d19f33bf30893d8750afb2c3b45872934",
+    "git_blob": "644a815fc48ba7965e8de5f71af68f6835bebe76"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/variables.gradle",
+    "bytes": 513,
+    "sha256": "80ca02724ff4a95d1192481c68b00474cb1f8c5767eabbcea00deb28049d06dd",
+    "git_blob": "d69c715cbb6cfbb306a56a2fda6803729c56aa39"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/.gitignore",
+    "bytes": 28,
+    "sha256": "93bfe8edb44bfa558fb5e58590c1efd7cd8a5c3293eb69e1b762fac908f39b59",
+    "git_blob": "0e911e5284805beb030528eddadfffec3d25e5b1"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/build.gradle",
+    "bytes": 2339,
+    "sha256": "d24a39c88db7a05138ffab1564b17d13e6fe83120fbb4e7577bad8b0bb7a4163",
+    "git_blob": "7f6a170b695cdccc4daee26bf099b5a2f0691b2d"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/capacitor.build.gradle",
+    "bytes": 587,
+    "sha256": "b5a5db54da1f6bd5c4e36bcea1f32a3d4829c9b76c107a8e12cb3b4ee7bb61ff",
+    "git_blob": "8f11bf75cafca82c19f024cbff29c5a08b31ee1b"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/proguard-rules.pro",
+    "bytes": 772,
+    "sha256": "a62624d7b48278452544f45d30648f7cc0dafc24561bd2e95074d4f5dab4313a",
+    "git_blob": "6e7ffa997ebe9c6370c559dda6ddfcd0d9d7f74c"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/AndroidManifest.xml",
+    "bytes": 2538,
+    "sha256": "2658489523711bb119142588b42245b8a7ca1fb2a2b518d18d8fe9ab1768f6d4",
+    "git_blob": "f4feeffd9e8ec434829c3fbf4029f1eb7f244e85"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/assets/capacitor.config.json",
+    "bytes": 203,
+    "sha256": "619dfad1850e9394efc78765162d5ffb8519bd72a500650c130a170cf6901a1e",
+    "git_blob": "b5afbebeaa3fc14ff88900199739a4b0730e1ad5"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/assets/capacitor.plugins.json",
+    "bytes": 453,
+    "sha256": "ff316441a55d7c4b74fb8e7dbec743e1828a54c1911b55598b285508bef21e30",
+    "git_blob": "57e4ffdf33271e932e359ab1c08736bb4dd165f8"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/java/ru/mmote/niimblues/MainActivity.java",
+    "bytes": 127,
+    "sha256": "3b7da160304d3e7eca4ca6ad1e73d5fc7bd231a6d505d8f21ba67c42059e9c43",
+    "git_blob": "a16c46f70e9c4a97eecacc8e1fe2751be3ee4674"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable/ic_launcher_background.xml",
+    "bytes": 5776,
+    "sha256": "61acabdec7880108a9850fdc6cea1a6fc974114bae875bdcadc70078bf4e615f",
+    "git_blob": "3a37cf6d00a4e21741fb324073b8f26e9fae8ebd"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable/splash.png",
+    "bytes": 2582,
+    "sha256": "ce9577492bcc8f6979d23739e85a1df5828bc7902a6c22e28a93d6c7a9acbe76",
+    "git_blob": "59a2b59630857812843f04e27dba69abd32387b7"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-land-hdpi/splash.png",
+    "bytes": 4883,
+    "sha256": "27b4681736f45dc992058468e90c394e442a763a960c3bfdd6233cfa672f8749",
+    "git_blob": "de3db6d672814f032fdb2a2a0e58cdc9f245b442"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-land-ldpi/splash.png",
+    "bytes": 1786,
+    "sha256": "10b9069140fd11fcc0f6e0639b80f3de9dc89cb8e77c5b90c3823bd297f296d1",
+    "git_blob": "be232ebfb58605a51d5ed010b2f467a829efa825"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-land-mdpi/splash.png",
+    "bytes": 2655,
+    "sha256": "ca5380bf6638607272f83e54aa9d572c58b34b9c87838ea81eca60dc4b8901a0",
+    "git_blob": "4a8cd6570cec6aceb61af4bf220b3415156912e5"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-land-night-hdpi/splash.png",
+    "bytes": 12115,
+    "sha256": "c24ed2a42c82fb1f0a2fe05b60678c893cfb2b547eea98f95961fad49d360a81",
+    "git_blob": "b504065ab80c5a618fc1d413f4c8ec153cdc6015"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-land-night-ldpi/splash.png",
+    "bytes": 3197,
+    "sha256": "17926bb4665b379c02090a53830908b383ca59167d6ca0cb1681762c50fef521",
+    "git_blob": "5b9e6d0cf147883bcd64425db76cebcd70531876"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-land-night-mdpi/splash.png",
+    "bytes": 5751,
+    "sha256": "695395dc03d119d7a2caf9595fe4f3df17962e70f47d643b9fbb4c31bd45926f",
+    "git_blob": "0e33090b89ad28cce8c1867637ece94a9b69b3f0"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-land-night-xhdpi/splash.png",
+    "bytes": 25154,
+    "sha256": "ad76385f566f1d8cf34489b48b95a521b2dcd21d11f3548e75d32a8cc7f3d5c4",
+    "git_blob": "d923a2154d96547dfeaa08abcd483de2e6a01258"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-land-night-xxhdpi/splash.png",
+    "bytes": 39516,
+    "sha256": "39b46e027c5662f5d8eb7966a092de18fecc00155b05f7419d41239e8f6ce2e6",
+    "git_blob": "9f5292165c1e4950d92d1e54053ef64a2365ea90"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-land-night-xxxhdpi/splash.png",
+    "bytes": 58791,
+    "sha256": "fac45140c77ccf6a8e38df80eb0dabe7e0048b29480fb9c8a23e504e90e0bae5",
+    "git_blob": "9695fc825472e9647d56fdeeee270b36770d82fb"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-land-xhdpi/splash.png",
+    "bytes": 9059,
+    "sha256": "fe873690e5974abbc24553d22bf684cd59e09b0830b63c47c9a7a0b40f2b7b0b",
+    "git_blob": "c0510b75799e6d0106293f22f032bab3b2255032"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-land-xxhdpi/splash.png",
+    "bytes": 13089,
+    "sha256": "86a4289d568b75a2614f33e100224c837027def3119b901579240ecde2f88f7a",
+    "git_blob": "cc418b885f08eb666c1eee3ef1efd11e98a5d8a2"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-land-xxxhdpi/splash.png",
+    "bytes": 18415,
+    "sha256": "0e3617eb35ac1d3a9046d5aecefc9c01d3a9689d419e96c5abffe248fbdf47a0",
+    "git_blob": "2c4b9fe579925b7fdef1d0455503a24074d2648a"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-night/splash.png",
+    "bytes": 3197,
+    "sha256": "17926bb4665b379c02090a53830908b383ca59167d6ca0cb1681762c50fef521",
+    "git_blob": "5b9e6d0cf147883bcd64425db76cebcd70531876"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-port-hdpi/splash.png",
+    "bytes": 4525,
+    "sha256": "2097716757aef2f8c9ca967edea05cc0ed6be64544908b3d5279cbcfa9dcb02a",
+    "git_blob": "887ee1d09f6ae31dc212d8443c59477ba6f4faf4"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-port-ldpi/splash.png",
+    "bytes": 1697,
+    "sha256": "7b5b0029e30ac9a3e068d7d685401acca7d9d14895a6b39b8194597fc174c6e8",
+    "git_blob": "0566014bfb58331186b17ea889e74fa94b74d147"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-port-mdpi/splash.png",
+    "bytes": 2582,
+    "sha256": "ce9577492bcc8f6979d23739e85a1df5828bc7902a6c22e28a93d6c7a9acbe76",
+    "git_blob": "59a2b59630857812843f04e27dba69abd32387b7"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-port-night-hdpi/splash.png",
+    "bytes": 11690,
+    "sha256": "2a78e1fc0c25c4ba5ec6cd13682bc156c349de2ef0be086bb03abb61f3750f79",
+    "git_blob": "126700c5e1796927e3c34bda44aa3a45e70cc991"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-port-night-ldpi/splash.png",
+    "bytes": 3123,
+    "sha256": "ac0e6d9d717a86beb4230ed4d1794b03f532219a20950624b61e43c5e9ea24c4",
+    "git_blob": "4d698cdd556f08d5f9702179e529df1cb1ac1114"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-port-night-mdpi/splash.png",
+    "bytes": 5131,
+    "sha256": "83b386c3a7c772edffac2c86875603c8c2ce9966ffa8c4ecfeee15ac134de131",
+    "git_blob": "4c46ecf7a8572ea1d9e2fd969088c94b9804f1a7"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-port-night-xhdpi/splash.png",
+    "bytes": 25310,
+    "sha256": "9819c01d0064e7fecfd141ef3dd574854da21a6951dfabadb4b825819d77e01d",
+    "git_blob": "df38aff8fd7ffc825872267bba523c97fe5c1026"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-port-night-xxhdpi/splash.png",
+    "bytes": 37292,
+    "sha256": "2899afa73eea6f1cc3cdb569b43d183d6eb62633d74f1b70aaf8d9ebd53b7504",
+    "git_blob": "97a7e277841f59166b51b94ed3a5487f037d0954"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-port-night-xxxhdpi/splash.png",
+    "bytes": 57625,
+    "sha256": "63c830631d77899a88338034d8ded02d68fa8645a3959e1ec325fb256fae24a8",
+    "git_blob": "2012110d9e5a60c672f584e18d0439cf58be2223"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-port-xhdpi/splash.png",
+    "bytes": 8506,
+    "sha256": "d64e38ea53c42aad89fc5e7c620bfa02fb405a2f75ebe9e3ba8c97f66648d0cc",
+    "git_blob": "ecdd16199b8bf95e7f541fc9971785dbed52d665"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-port-xxhdpi/splash.png",
+    "bytes": 12215,
+    "sha256": "a3957782f80344e69f5835d2a4a4b69cf6f57e930e42e77b6f00958afcb856eb",
+    "git_blob": "a26e1c5a85f469fbb221b7396285d5a60843c00d"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-port-xxxhdpi/splash.png",
+    "bytes": 17751,
+    "sha256": "7f6eafab72ae6843134e74a6213789fd073caf12968eb7aeac7f422c6fb20eec",
+    "git_blob": "0c2df30c97eec30acecfc322e2e249d2e700fecb"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml",
+    "bytes": 1914,
+    "sha256": "fe3c9a470d9dfc34dfefa1cbbaf67f16174cdd3d242a1d4f6bd09483ea38c29b",
+    "git_blob": "ddb26ad7769cd5783d72e95104838599864d58af"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/layout/activity_main.xml",
+    "bytes": 547,
+    "sha256": "61e5b7029215a836abe562b61d037bd5e59e68e28cbaab42b9f503ba5bf3ca57",
+    "git_blob": "f375693fd5666da4fa6bc347cd1128f9ef35092d"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+    "bytes": 388,
+    "sha256": "9df7f1f1fb647e45268dcc3d481a845b7b32e064f05c7ba78e76c3f0125a7c76",
+    "git_blob": "b2bcba3320814c59d83beb85af6dd2022e48a235"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+    "bytes": 388,
+    "sha256": "9df7f1f1fb647e45268dcc3d481a845b7b32e064f05c7ba78e76c3f0125a7c76",
+    "git_blob": "b2bcba3320814c59d83beb85af6dd2022e48a235"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-hdpi/ic_launcher_background.png",
+    "bytes": 531,
+    "sha256": "7189839950fc679f54b3d42f1c7f9b26b1dcf022c8b4b1192963562f06366717",
+    "git_blob": "0feb4c7dd939a2208d91306dfc8997f872f50b03"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png",
+    "bytes": 2577,
+    "sha256": "8b9da86f7c00d587023ebf0651f09bb71db26772887f4152125cf84f0f9d282d",
+    "git_blob": "29c4f234d7cafd6feea09b569bd6c2bcaeb09193"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+    "bytes": 1584,
+    "sha256": "fa4eca550f2a9b57e94bca76eec45db040626dd9cc4137a7807ce6696af2d532",
+    "git_blob": "21bb058e6fb71cd5f28ac2a129ef92b92ee8d38b"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "bytes": 1503,
+    "sha256": "95e8cc3e39fea3294dfeb79a0b5473f298db4d2727b1f2e3105b069fb9cf4856",
+    "git_blob": "3b373f576ef76fea56a1bb3bbe9716f759019fd7"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-ldpi/ic_launcher_background.png",
+    "bytes": 277,
+    "sha256": "aa92fd5bf862df0dc0abde01ce2696fa0a948cf3a18fc4de2602a0969ae6bc12",
+    "git_blob": "b999324d43b16dccce3a7efa2519b22d0fd25be1"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-ldpi/ic_launcher_foreground.png",
+    "bytes": 1205,
+    "sha256": "850d935054299fdfc284bba5aae087ad39b5a87edbeddea51eb7b2891ff30acb",
+    "git_blob": "984e17fb301d75035ef780692e48bfaa459435ea"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-ldpi/ic_launcher_round.png",
+    "bytes": 784,
+    "sha256": "c832c4dd2b87b3e7eb3dbd39632afbc63eaa36d0abfb2f42565cdeb9720c2dc1",
+    "git_blob": "7f5f2b7117c304a2cac86d87be2a57843fcf1aac"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-ldpi/ic_launcher.png",
+    "bytes": 630,
+    "sha256": "57597f8188387096b39238aa2715c71d3aee4a4593d553cf05341b01ffdaa034",
+    "git_blob": "b654404b1af3fb30e02266d66d58744e8d984dfb"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-mdpi/ic_launcher_background.png",
+    "bytes": 350,
+    "sha256": "6acd52bdd43b528a024d6d46d5a50dba12b466c499a2a95fa1edf66af10b4918",
+    "git_blob": "5b990d7b51b5db38ca9be2d2eb513195db1759bf"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
+    "bytes": 1619,
+    "sha256": "e8167a2f8f6a01d70c08ad12bcd3bd92b49e051fd2a069c44e979f6337bf6077",
+    "git_blob": "1f44acd691f564206fc9dd0b1cbc587956090322"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+    "bytes": 1058,
+    "sha256": "dde6e59e891764628d992c2b99afb22b6a1102aa1021feb1020cb1e3f4c04370",
+    "git_blob": "e009f10e8b1b129a582dd3cfaf5c6d197ebe8e22"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "bytes": 926,
+    "sha256": "7f5c1dbc410d65a9dcf61f45f1d91485e4f4677c6fb81a1329a7e38d45abd3b8",
+    "git_blob": "e1ca019051f95f18ffe24f6930d56e5687782636"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png",
+    "bytes": 697,
+    "sha256": "35b716f97156f38260ea4c99d6f9dad67f0fb742f05f821fe8a790f5c8eec082",
+    "git_blob": "adf064785b2e778e5e9224cb7431e91c147ddb09"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png",
+    "bytes": 3630,
+    "sha256": "1920d010135cd54df12c776322842e485eb9dbba386316562d51b14769910412",
+    "git_blob": "2140de4fd5c2b3c904627ccada8a55338f10cceb"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+    "bytes": 2031,
+    "sha256": "07387e4f7b515c0176e6fcb93d0368a3367b8984c1c1a3ea7d98a92108c578e8",
+    "git_blob": "52787b26306488cbd67dcee3ed62ad44b5a6c541"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "bytes": 2192,
+    "sha256": "9158f654aeb445cf96843ccf0b6d21e6c3d167e308a44808a029d50101ac4bc3",
+    "git_blob": "9fe39c2b8e13a3f64e89a6aa3e55dc729307b7c7"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png",
+    "bytes": 1040,
+    "sha256": "779eab0767b85aa6f205ba4c0aba69fba43c9cd08b5052c42bcb53ef3832a123",
+    "git_blob": "5da73954fe1169845e34a67baa30382f782d3eea"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png",
+    "bytes": 6072,
+    "sha256": "f2db2cc6c778954aa47927011e4c03034b0140e101c4c606ca9d6b1973812709",
+    "git_blob": "84e496141d0677d6d1ae93655b1f74e8b9a79bbe"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+    "bytes": 3196,
+    "sha256": "1281471b79f9c7a02f1d738cd3efe257ff21aae1281bb96b6186a14816cef04d",
+    "git_blob": "d27f25b58957456fe78e5a42a94818a453da35a5"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "bytes": 3525,
+    "sha256": "7c9a00a7e941ee0a839102d824252975d316138d6371be10933ea14ad1ece8ad",
+    "git_blob": "69d40d79e4b0feb4cd87165c9a01344cdd6c9cc9"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png",
+    "bytes": 1726,
+    "sha256": "ac90b7ceeacb59bc41e6ad470596a0192a819af38cdd03084ec9a293efeb870a",
+    "git_blob": "62d0494ea43a110c872e4897e9908283ab281d49"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+    "bytes": 8439,
+    "sha256": "69b591ed6d8da3baface9b00e1d6bc98a9b26f3f562eaa122e81bd86af8071e0",
+    "git_blob": "01e073184ac4de016ddc50ec14f661485d19576e"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+    "bytes": 4327,
+    "sha256": "f2a62cd85dabf00fca1dbfe82b327d16a35db2f63333600b335b1e79febd2726",
+    "git_blob": "ba36f595422f627ffdfe6162e463371087312f1c"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "bytes": 5119,
+    "sha256": "29af214453c53923bc882fffcd4a714e1218c186a7adefe55aeb153b5189fdc0",
+    "git_blob": "ba7c8a76dbd0b66c4a56a6ec092c80280313f018"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/values/ic_launcher_background.xml",
+    "bytes": 123,
+    "sha256": "1cab1aa686b81505433a474a3408f56d39a3dff8f1ff66c16d866a8fa4b806be",
+    "git_blob": "cfa9be08f986e1701bfc56b8014ebae429ff6954"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/values/strings.xml",
+    "bytes": 303,
+    "sha256": "1390acb39e277ce6099b46ac1f7215fd0cf8d602c0888ee106cf3d5e942fdabc",
+    "git_blob": "f332a07be7a4724a8147cd6a54ec85e44cb6e4fc"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/values/styles.xml",
+    "bytes": 844,
+    "sha256": "8207f1e42dd22d6d2fddb0bdad3ee9e7db9535a0368aae0b4daadead05112655",
+    "git_blob": "6e28da9e5f973f1df893b7f385d2c5426208f4e2"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/xml/config.xml",
+    "bytes": 185,
+    "sha256": "e9dcda493e663c5c4db9e3cb3bd968477a6e90aa8840bcbba40d72ed54b767ce",
+    "git_blob": "1b1b0e0dcacc0bfb732885c069993b3e2ddbafba"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/app/src/main/res/xml/file_paths.xml",
+    "bytes": 217,
+    "sha256": "a290266da65e30675e410cd8e1c17cde04de40170c9c3b900504e7a24ca79626",
+    "git_blob": "6c80390ccf720b45c6aa9555aae5e069bb24abd8"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/capacitor-cordova-android-plugins/build.gradle",
+    "bytes": 1668,
+    "sha256": "28e3fa281f4d1e388bf98abc7f5bb31e672516e385c165c719d201ed54b8236e",
+    "git_blob": "b2e25ddd6e7b2b67fa53cdc7d8204ebf2f26a8a0"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/capacitor-cordova-android-plugins/cordova.variables.gradle",
+    "bytes": 312,
+    "sha256": "b13104b34f7738abceec358ae8226ba5e64855e97babde54a115880e9b9bd47b",
+    "git_blob": "b806d8ad6586478426457d95084f24fdd004b6b2"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml",
+    "bytes": 210,
+    "sha256": "2e3e383475f0e6cb76f0a7b46017a546663fba8e5bd1ef2a537412afac2ee9b5",
+    "git_blob": "cb9c8aa354a4035d3430a421f53907fe05927006"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/capacitor-cordova-android-plugins/src/main/java/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "git_blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/capacitor-cordova-android-plugins/src/main/res/.gitkeep",
+    "bytes": 1,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "git_blob": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/gradle/wrapper/gradle-wrapper.jar",
+    "bytes": 43764,
+    "sha256": "7d3a4ac4de1c32b59bc6a4eb8ecb8e612ccd0cf1ae1e99f66902da64df296172",
+    "git_blob": "1b33c55baabb587c669f562ae36f953de2481846"
+  },
+  {
+    "path": "standalone-apps/capacitor/android/gradle/wrapper/gradle-wrapper.properties",
+    "bytes": 260,
+    "sha256": "1adf3caeedad6ae5b3a0a410e1dd94ca552d6e6f02ee68cbaf849cd5e7877d17",
+    "git_blob": "7912cdbdd457034332f74f910ce94c97fbd76990"
+  },
+  {
+    "path": "standalone-apps/capacitor/assets/logo.svg",
+    "bytes": 1580,
+    "sha256": "f827fc75fcd3493bd974aed78357e73f075e57c9dc02385325879f2f1e21e8de",
+    "git_blob": "694f181a3bc39438cb0a4a1addd76158e55ffa00"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/.gitignore",
+    "bytes": 219,
+    "sha256": "617a0925d785475f90df5c1bbefa1d11251827dbc85b677f150f6825203b91b7",
+    "git_blob": "d21b56b5709a959eee85603a24a9be81c714def4"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/Podfile",
+    "bytes": 995,
+    "sha256": "812ae757268e7ad0c8b3b7c4bf4f5ee9c1d8a76f61ff175998072cb3fa0d9396",
+    "git_blob": "491dd099be6a51ff36901bc213851b300721f4a0"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/App.entitlements",
+    "bytes": 364,
+    "sha256": "d804c34db014cd32a151261d528f26f01685615fe5f82c1c9937ec9d1e2fa45e",
+    "git_blob": "cae0691d306a1667cbbe2f6e60225606387ffa71"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/AppDelegate.swift",
+    "bytes": 3080,
+    "sha256": "a126d7d4d5b16d0523eb78f9bbb9a84c57dc8c73460e04fd32fbd39423f2e39a",
+    "git_blob": "6201d1600c0f7b1e1aab2e179215539157f368c9"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Info.plist",
+    "bytes": 1780,
+    "sha256": "d5aee8a81bb5246d35ee5b6c7aa24fec7a3415e34324baf978f4acb899c447ca",
+    "git_blob": "f9928f9baffa687709b7f0bb723a620c7cd315f1"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/100.png",
+    "bytes": 2164,
+    "sha256": "07a06231213572f88e9b2bf143c7f7469b99a69046f2a8f7ff5fb253bbf71414",
+    "git_blob": "d270ca9fe4defa3dd069872b3b68ae3f4c8f4d27"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/102.png",
+    "bytes": 2156,
+    "sha256": "3a732afe0f1030db70b4955b85c5d9296fb09510da37ac33ff689784fcfa187d",
+    "git_blob": "061259a5af2a5cecc96fdb7ae627ce1075fd4d15"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/1024.png",
+    "bytes": 40023,
+    "sha256": "93c377c8af04f455f1237c454d64f5d9e153c25dfe3d66d3e9e924beec0edb88",
+    "git_blob": "2087f06148251afa8b6a9cdce4c816392d3c7de4"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/108.png",
+    "bytes": 2267,
+    "sha256": "c4fbbbb5e88391780531061173bf7fea8c066612d42dac12e920f5ba8e531b7e",
+    "git_blob": "efeaab8c356c15d26db0a537537e29935870fcfc"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/114.png",
+    "bytes": 2411,
+    "sha256": "bc3757906ee6e137f3bcbd01de4aec4b70599bd3f26389097d2a1eb430a2b3d7",
+    "git_blob": "526fb9cecaeca87f1ed6ae185a2b7be6df231cfd"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/120.png",
+    "bytes": 2510,
+    "sha256": "e18f68b60919e3351f298b81e296d4e71a945b5edd0ca5fd5e418048f632baad",
+    "git_blob": "468aba60ad22faf250aabe0edcd2324f079e8ade"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/128.png",
+    "bytes": 2758,
+    "sha256": "fbbb9d48842ee20bf0b10c38b064e2ab0106d5a62565ff5b1f38ee7ad0d37927",
+    "git_blob": "6957431a694c182f928e6f94317d08ec4d335a1e"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/144.png",
+    "bytes": 3187,
+    "sha256": "356c399473389ae39fd5220ca6b9e250ffce20c71885a687b5292cd7f479b5d5",
+    "git_blob": "239a573949e9de5b4f356f7b0e7e2eabc45cf55f"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/152.png",
+    "bytes": 3408,
+    "sha256": "a92c02c4483b1cafa05e03f7c3536d84a861cc7db78b14fd61bd808713c1285b",
+    "git_blob": "16483d751dee42153282cf1a4c564fd8c87ac2bd"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/16.png",
+    "bytes": 491,
+    "sha256": "25b17973c4f0864cd81387736ed65864d1453a9c8d7a359eead7e6c55286ac94",
+    "git_blob": "597f26d214a3cc0411f91d69c4e09edb1742d4b4"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/167.png",
+    "bytes": 3736,
+    "sha256": "eec804f733e0e4474f958eed3cfe253d99486e38e523ea2788ec7401b29852a9",
+    "git_blob": "1acf020e1537634a675669efa14ed33d3ce633ac"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/172.png",
+    "bytes": 3856,
+    "sha256": "07abdf00ed13b7db03d752eb5a9f2473fed5b66cff6e047f22040c168d426d31",
+    "git_blob": "da8f3b5009e4e30c992884897bedb1c6d841ae0b"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/180.png",
+    "bytes": 4075,
+    "sha256": "717ba10ae02a7481fde73a9cfba515ba4eb06d486aaaa234183d49a2f7373932",
+    "git_blob": "1f5a3cdf60de6aacf4eb5624a69cf01f7b54efe0"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/196.png",
+    "bytes": 4578,
+    "sha256": "4a456935ea61a5407ecf097fdae0e5bafe6e259cd31e672610634f5bfad7a8ad",
+    "git_blob": "5a044c56e72a47cf9c418a51d5ae345a5e6cd7a8"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/20.png",
+    "bytes": 560,
+    "sha256": "98e92ca0c2729f7d5314034d1cd94038c07cde7e6a2da197461fd1db633c012c",
+    "git_blob": "ef555bc9b5c2dab85e9cf23fa65fde271b10c2b0"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/216.png",
+    "bytes": 5157,
+    "sha256": "e46d240a26745d69ef6079363bddf85a4bbdca8bbdc90de21cfaab9aa3262195",
+    "git_blob": "196d538ec00ada66b27d070ec2bac17454a40fff"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/234.png",
+    "bytes": 5604,
+    "sha256": "0e0a1855bd0edf205b9adaa30144e3410d2215463517f5da0ea3c8abeeb9241b",
+    "git_blob": "b90734ad1ae170c1d5e62c75549d107f61afedec"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/256.png",
+    "bytes": 6358,
+    "sha256": "be4b4625f4c6630f4716cab8384392b22a027b7abad476f2815d00b31c95f0be",
+    "git_blob": "ebad02dfc1f5dd4242646b85cbf26a226ea0804f"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/258.png",
+    "bytes": 6348,
+    "sha256": "bf34c4bf1df3a0eeda01e842ffec54244af38a7c8567514496c453a103fae740",
+    "git_blob": "0bc0c2156cc1c95b59957ef831a44f62083f171c"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/29.png",
+    "bytes": 745,
+    "sha256": "a7293434bd3b05793de310f2768598b7808e1c3c94485ffce75c82534515e401",
+    "git_blob": "8d6aa2691e45d44c2ba85000b150ea8c7107efa9"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/32.png",
+    "bytes": 791,
+    "sha256": "dfe76d4a78a1afa5d13aa2193a2bfcfb9678c60e5357e2ff66f7bce87d1548d6",
+    "git_blob": "d23cf1472e413efeed1983e5390dba02e445ab7f"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/40.png",
+    "bytes": 973,
+    "sha256": "8b73d8bd3f3df2eac82bb24a301ca87308d9d7e32ca9c0b610bfc4e8968a54e3",
+    "git_blob": "1ec9da1a708ee854232efe160b77b22e2e207c8d"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/48.png",
+    "bytes": 1098,
+    "sha256": "ffccd57791f452f1106701a2404af10fcbeeff2b61bb080f758dd6e75bb4e5c8",
+    "git_blob": "26160e9e3cde8581be9cfaf502f1232bc64fb443"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/50.png",
+    "bytes": 1103,
+    "sha256": "20e6f70947ce1ae115980d4613e39d48e585028d58b6fc6425376d81d2662328",
+    "git_blob": "594f6f2fc2b0d6eac27e2291faef721483482d66"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/512.png",
+    "bytes": 15391,
+    "sha256": "8351f5e2c1b02c5883b41196d8f7335076ceb2a1711a5a24985720dbfd41b198",
+    "git_blob": "cbb7dac1a053cac728b22108f1aa30de36efb306"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/55.png",
+    "bytes": 1200,
+    "sha256": "6a1000dbd6f585133b40f74fdbf8c02a3eb907495c22271761c367b7ece1b3e6",
+    "git_blob": "5b676c7e79255192979674f8075268cc804774a7"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/57.png",
+    "bytes": 1254,
+    "sha256": "cef7e10ffa108bf0a0a134c18130c881069cc71c58491c5d531e891cc1503f3a",
+    "git_blob": "c3d404f08f8ef152817da23f2fe7ef86a7d0b923"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/58.png",
+    "bytes": 1268,
+    "sha256": "84c9ff6f4de09373880447f5951f6a4ff3e4cddbcf91c3fb98b9a814ee299db4",
+    "git_blob": "cc23845618637c2216ea31eb3818934477f0f853"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/60.png",
+    "bytes": 1281,
+    "sha256": "e8b5567f21a11e4bee5c4b2288465ba82434e5f65f13d97b1caf038afe316e04",
+    "git_blob": "c62f7eb13cbd70f8fc56f444bbc429a77b5e4d92"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/64.png",
+    "bytes": 1461,
+    "sha256": "b4b9a60aa39518195f65e66a77492dc10f84af685992cfd269da15dedfab3bb8",
+    "git_blob": "56ba45c208159415ee2c2bcf8075888699a81d63"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/66.png",
+    "bytes": 1437,
+    "sha256": "20c05344b0d380413e1f0b2990aabb7018e2a7a4382929d99667de820d0e04ff",
+    "git_blob": "e6b4ebf43371b656c3f22a18e86200d69ccd4d8f"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/72.png",
+    "bytes": 1544,
+    "sha256": "d9b34abfbb7101c33aac9bdc5d4d8618f41e4c49417d6f97c2ebd0b7ae6030a5",
+    "git_blob": "3160223ab520837559645499e632497acb33b7cb"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/76.png",
+    "bytes": 1676,
+    "sha256": "998ba00bd251b71a3b10c97b75e8e6927247e9743044170759e7bff7efea719f",
+    "git_blob": "fe280c6d2298b65c21961a55fc422cfa09926fc6"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/80.png",
+    "bytes": 1674,
+    "sha256": "f40a2cc1e915f893d29905c6ba2e7ec2fe43d08cf6cf0c3a8775435bae056d23",
+    "git_blob": "e9c858f822df602cf2e3a1d14189ef4992712d22"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/87.png",
+    "bytes": 1860,
+    "sha256": "5561b46545373ff8d2a5bac3af5135f73aab02df288c7edc294a39e56045c2e3",
+    "git_blob": "20e7a7b2c011aca74ad0c901bb8a4ce5d5f9ef2f"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/88.png",
+    "bytes": 1874,
+    "sha256": "26f6c74b39db9c59e38e8c78f0def9b16bcbf0b18b2b107fe1d652df546179a2",
+    "git_blob": "3d70c43a8ead7879d84e5619cc0198a7de9d059d"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/92.png",
+    "bytes": 1958,
+    "sha256": "91bb64a6eff40d1704eb99dc949f7fca9391dcb5f7a0e33c744ce0c236bca85d",
+    "git_blob": "562d292164bcf38fa9987b338d8e03f5a67b0724"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Assets.xcassets/AppIcon.appiconset/Contents.json",
+    "bytes": 7661,
+    "sha256": "b8eddcc01619442bbe71c8a1b035b5aeb93df140e1630eb07954e48b3ace6d7e",
+    "git_blob": "1319290d43c1ccbae7f06f235d078a161cec455a"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Base.lproj/LaunchScreen.storyboard",
+    "bytes": 2026,
+    "sha256": "cced1b7ad3ee8bf2b775bd014e2172d050cadf4ab0b186addede4c96a01cc05d",
+    "git_blob": "1f26c8a45cadf9c393051083be6bf3d00cdee08e"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App/Base.lproj/Main.storyboard",
+    "bytes": 1038,
+    "sha256": "1beac972dcbf6e9949d16a6afe5c81c64b8f59cde83457eb94d984b5ceafe12c",
+    "git_blob": "c86b3c4bb6628ddccc3da224cb72dd1dbe385b96"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App.xcodeproj/project.pbxproj",
+    "bytes": 18478,
+    "sha256": "ce0b5b28c64a53533006c4fddf02fa1656c1fb5243a49edfac53fa3bf3630ff2",
+    "git_blob": "bf52c0fb82b25ab14f26143cea97cc734bb78859"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App.xcworkspace/contents.xcworkspacedata",
+    "bytes": 231,
+    "sha256": "b44b4485e00d264d43d2248a33f8db160c26f1d9e98ae3c4da838418ef130143",
+    "git_blob": "05fc9dd16da9ea14f4a4985a3cb8c400bc7df863"
+  },
+  {
+    "path": "standalone-apps/capacitor/ios/App/App.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+    "bytes": 246,
+    "sha256": "d557c2c32fc6258ec28981fa45dc847b76c9968beb90a2e26d13ef9c4ea45c30",
+    "git_blob": "fc6bf8074854f8fd9fea8d9cc80d5ca1b8d932db"
+  },
+  {
+    "path": "standalone-apps/tauri-windows/.gitignore",
+    "bytes": 296,
+    "sha256": "9fabf4be85ffd6605262755e5ccae85a14729b4ba2e928029e4a2043f79574c0",
+    "git_blob": "05f96d12b5b3ea5389d24c65f4f3474f32ee6ade"
+  },
+  {
+    "path": "standalone-apps/tauri-windows/package-lock.json",
+    "bytes": 7419,
+    "sha256": "a190d5ff76a4006e42ff95f61d795f0b6ea934f93b0da8cfa909bd5ca9da81b8",
+    "git_blob": "17c28fcfb87071f21f25b2730e96e5e64390f3a2"
+  },
+  {
+    "path": "standalone-apps/tauri-windows/package.json",
+    "bytes": 285,
+    "sha256": "63110d5c4eacc52962a790554b9a5f371ba5e0c8eed0b3ae804e70e16176b4ec",
+    "git_blob": "26e01ca56734f033d00b31bc9d9f11356872dce9"
+  },
+  {
+    "path": "standalone-apps/tauri-windows/src-tauri/.gitignore",
+    "bytes": 173,
+    "sha256": "e1b11c0407131ad35a1f11d8ec2545c53de147a76f05e264e5b500a14b977332",
+    "git_blob": "d8769d02d149255200f1f89102bb0fe3b9893094"
+  },
+  {
+    "path": "standalone-apps/tauri-windows/src-tauri/build.rs",
+    "bytes": 42,
+    "sha256": "4ae2333b11623039cc115e29b696e7ff5cdfcd5b7d628280ddf48fa733e6418d",
+    "git_blob": "2ba80a8bff12786f28420a30260b9949355066b4"
+  },
+  {
+    "path": "standalone-apps/tauri-windows/src-tauri/Cargo.lock",
+    "bytes": 139338,
+    "sha256": "b756adb7fc902ce26ea3259efa81b9212ad18456ee8b77cd49186588a5150039",
+    "git_blob": "c13034e1c3d3efbeb53dbdd13e88cc3a8ec6a9bf"
+  },
+  {
+    "path": "standalone-apps/tauri-windows/src-tauri/Cargo.toml",
+    "bytes": 804,
+    "sha256": "d7ac1e38aa6f75e283c54c8c6313489d4c288b6bcd42874b52396a40e3ad1a74",
+    "git_blob": "0131ee3ae1f19f75c6d89310f53c158f42cd752f"
+  },
+  {
+    "path": "standalone-apps/tauri-windows/src-tauri/tauri.conf.json",
+    "bytes": 456,
+    "sha256": "d956304f18636407a5c088a02d8896eb1c5a5e98fd9ddb77a55726ae53125591",
+    "git_blob": "a809376271229b89a7d6eaa72ae57b900a39138b"
+  },
+  {
+    "path": "standalone-apps/tauri-windows/src-tauri/capabilities/default.json",
+    "bytes": 230,
+    "sha256": "f4e450983bbc94f2c2b0aa05513923a00af47d2b62d272177b48315d46719807",
+    "git_blob": "2ff144e299a094c873f7e2d10f26912f00531088"
+  },
+  {
+    "path": "standalone-apps/tauri-windows/src-tauri/icons/icon.ico",
+    "bytes": 12354,
+    "sha256": "b76755dee1afba31a13b0d2954c83ee3ff1599123f1200483301da95e39aca9b",
+    "git_blob": "60396cca033bf8e1963da6fc9e1b71ee953b6cc8"
+  },
+  {
+    "path": "standalone-apps/tauri-windows/src-tauri/src/lib.rs",
+    "bytes": 317,
+    "sha256": "a0759d209926da6f20f584e679b9e8037a9cdee59f56a3a8de1cae752d858a83",
+    "git_blob": "96a7f09cebf9a33df594785a94c78c749b254276"
+  },
+  {
+    "path": "standalone-apps/tauri-windows/src-tauri/src/main.rs",
+    "bytes": 190,
+    "sha256": "0e02d9ef89c65a80990aa4bfece629e24ffd108e3bf7cd8694a2af3b23e4a7cd",
+    "git_blob": "f466c72c61f59a153af499b87cb39dc7f3aaf0d8"
+  },
+  {
+    "path": "tests/mobile-verified.png",
+    "bytes": 62626,
+    "sha256": "707a433df345e4e19db8e177a21d87070e4876e27a8164b0c5003c18c4b839a7",
+    "git_blob": "0b9ed721e7251f9800240443fadb9e10b0db100c"
+  },
+  {
+    "path": "tests/regression.html",
+    "bytes": 3987,
+    "sha256": "da5a826024c9c0a5e0c1e44fe6eb34eb76611361adb7401572ead93d798f955b",
+    "git_blob": "a475645a5a29034d5decbc3e40ae0ac62fd69a7f"
+  },
+  {
+    "path": "tests/run-ui.mjs",
+    "bytes": 2855,
+    "sha256": "227ecfbfebffbbe8ca4381812d297f1789329fef36d8fbf4108d39fccac8092f",
+    "git_blob": "14d489ad8b2eba9267c6cfceacad39d402636745"
+  }
+]

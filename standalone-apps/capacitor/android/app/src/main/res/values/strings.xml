@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Niim Pocket</string>
+    <string name="title_activity_main">Niim Pocket</string>
+    <string name="package_name">ru.mmote.niimblues</string>
+    <string name="custom_url_scheme">ru.mmote.niimblues</string>
+</resources>

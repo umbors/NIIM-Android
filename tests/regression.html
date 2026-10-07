@@ -1,0 +1,63 @@
+<!doctype html><html><head><meta charset="utf-8"></head><body>
+<canvas id="test"></canvas>
+<script type="module">
+import * as fabric from "/node_modules/fabric/dist/index.min.mjs";
+import { fitObject, placeObject, resizeLayout } from "/src/utils/layout.ts";
+import { parseConsumable, consumableLayout } from "/src/utils/consumable.ts";
+import { TextboxExt } from "/src/fabric-object/textbox-ext.ts";
+import { mount, unmount } from "svelte";
+import { BleClient } from "@capacitor-community/bluetooth-le";
+import NamedDevicePicker from "/src/components/NamedDevicePicker.svelte";
+const results = [];
+function check(name, value) { if (!value) throw new Error(name); results.push(name); }
+try {
+ const stock = parseConsumable({barcode:"02282280",name:"T15*30",width:30,height:15,paperType:1},"02282280");
+ const meta = {model:"D110",dpi:203,printDirection:"left",printheadPixels:96};
+ check("Reject roll wider than head", (() => {try {consumableLayout(stock,meta);return false;}catch{return true;}})());
+ const layout = consumableLayout(stock,{...meta,printheadPixels:120});
+ check("RFID catalogue width/height and 203 DPI",layout.size.width===240 && layout.size.height===120);
+ const hi = consumableLayout(stock,{...meta,dpi:300,printheadPixels:184});
+ check("300 DPI head aligned to bytes",hi.size.height%8===0 && hi.size.width===354);
+ check("Reject mismatched barcode", (()=>{try{parseConsumable(stock,"different");return false;}catch{return true;}})());
+ check("Reject unsupported cable layout", (()=>{try{parseConsumable({...stock,isCable:true},stock.barcode);return false;}catch{return true;}})());
+ const canvas = new fabric.Canvas("test",{width:240,height:120});
+ const text = new TextboxExt("中文多行标签",{width:120,fontSize:20,splitByGrapheme:true,fontAutoSize:true,left:4,top:4});
+ canvas.add(text);
+ check("Place first text",placeObject(canvas,text));
+ const qr = new fabric.Rect({width:64,height:64,left:4,top:4});
+ canvas.add(qr);
+ check("Place second object without overlap",placeObject(canvas,qr));
+ const a=text.getBoundingRect(),b=qr.getBoundingRect();
+ check("Separated rectangles",a.left+a.width<=b.left || b.left+b.width<=a.left || a.top+a.height<=b.top || b.top+b.height<=a.top);
+ text.set({text:"这是一段很长很长的中文标签，需要自动缩小并且不能超出纸张。".repeat(4)});
+ fitObject(canvas,text);
+ let bounds=text.getBoundingRect();
+ check("Long text stays inside label",bounds.left>=0 && bounds.top>=0 && bounds.left+bounds.width<=240.1 && bounds.top+bounds.height<=120.1);
+ resizeLayout(canvas,160,80);
+ check("Resize preserves content",canvas.getObjects().length===2 && text.text.includes("中文"));
+ check("Resize keeps every object in bounds",canvas.getObjects().every(o=>{const b=o.getBoundingRect();return b.left>=0 && b.top>=0 && b.left+b.width<=160.1 && b.top+b.height<=80.1;}));
+ canvas.dispose();
+ let scan;
+ let stopped=0;
+ BleClient.initialize=async()=>{};
+ BleClient.isEnabled=async()=>true;
+ BleClient.requestLEScan=async(_options,callback)=>{scan=callback;};
+ BleClient.stopLEScan=async()=>{stopped++;};
+ const picker=mount(NamedDevicePicker,{target:document.body});
+ const choice=picker.choose();
+ await new Promise(resolve=>setTimeout(resolve,20));
+ scan({device:{deviceId:"a"}});
+ scan({device:{deviceId:"b",name:"   "}});
+ scan({device:{deviceId:"c",name:"D110"}});
+ scan({device:{deviceId:"c",name:"D110"}});
+ scan({device:{deviceId:"d",name:"B1"},localName:" "});
+ await new Promise(resolve=>setTimeout(resolve,20));
+ const list=[...document.querySelectorAll("dialog .device-list button")];
+ check("Unnamed and whitespace devices hidden",list.length===2);
+ check("Named devices deduplicated",list.map(button=>button.textContent).sort().join(",")==="B1,D110");
+ list[0].click();
+ check("Device choice stops scanning",await choice==="d" && stopped>0);
+ await unmount(picker);
+ window.testResult={ok:true,results};
+} catch(error) {window.testResult={ok:false,results,error:String(error)};}
+</script></body></html>
